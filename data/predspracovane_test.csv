@@ -1,0 +1,1095 @@
+,name,address,FTI measured,education,lithium,TT4,T4U,capital-loss,capital-gain,on thyroxine,tumor,TSH,T3,fnlwgt,hours-per-week,relationship,thyroid surgery,workclass,I131 treatment,marital-status,goitre,native-country,hypopituitary,query on thyroxine,T3 measured,referral source,education-num,occupation,TBG measured,race,pregnant,TSH measured,query hyperthyroid,TT4 measured,on antithyroid medication,FTI,sick,T4U measured,psych,query hypothyroid,age,sex,date_of_birth
+0,Abigail Martinez,"24040 Daugherty Meadows Apt. 787
+East Kathryn, OK 68436",True, Bachelors,False,139.0,0.88,0.0,0.0,False,False,0.05,1.4,170070.0,20.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,13.0, Tech-support,False, White,False,True,False,True,False,157.0,False,True,False,False,32.0,F,1986-08-13
+22,Angela Burden,"3385 Michael Square
+West Vickie, DE 54485",True, HS_grad,False,133.0,1.08,0.0,0.0,False,False,2.0,2.5,100734.0,55.0, Not-in-family,False, Local-gov,False, Divorced,False, United-States,False,False,True,SVHC,9.0, Tech-support,False, White,False,True,False,True,False,123.0,False,True,False,False,50.0,F,1968-03-07
+37,Barbara Null,"59801 Cox Extensions Suite 593
+North Johnberg, MS 75654",True, HS-grad,False,106.0,1.31,0.0,0.0,True,False,13.0,1.3,194981.0,36.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Tech-support,False, White,False,True,False,True,False,82.0,False,True,False,True,72.0,F,1945-12-23
+62,Brenda Johnson,"10587 Vanessa Lights Apt. 086
+Debrashire, TX 19180",True, Some_college,False,155.0,0.72,0.0,0.0,True,False,0.02,1.6,177083.0,30.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,10.0, Tech-support,False, White,False,True,False,True,False,216.0,False,True,False,False,60.0,F,1958-03-28
+78,Carol Crum,"645 Salinas Mall Suite 303
+North Jasonmouth, KY 55882",True, Some-college,False,172.0,1.15,0.0,7298.0,True,False,0.49,1.8461538461538463,51158.0,36.0, Wife,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,False,other,10.789473684210526, Tech-support,False, White,False,True,False,True,False,150.0,False,True,False,False,58.0,F,1959-12-03
+96,Cheryl Bednorz,"68207 Lee Mountain Apt. 989
+Lake Kaitlyn, WA 54675",True, HS-grad,False,111.0,1.12,0.0,0.0,True,False,7.7,1.8461538461538463,156718.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,9.0, Tech-support,False, White,False,True,False,True,False,99.0,False,True,False,False,64.0,F,1954-02-08
+99,Chris Prior,"2682 Munoz Islands Suite 469
+South Elizabethstad, FL 89447",True, Bachelors,False,120.0,1.01,0.0,0.0,True,False,4.7,1.8461538461538463,187702.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,13.0, Tech-support,False, White,False,True,False,True,False,118.0,False,True,False,False,54.0,M,1963-11-22
+172,Esther Beaty,"034 Kristen Field
+Lindseyland, WV 39879",True, Some-college,False,114.0,1.11,0.0,4865.0,False,False,5.172941176470588,1.8461538461538463,123147.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,True,False,other,10.0, Tech-support,False, White,False,False,False,True,False,102.0,False,True,False,False,72.0,F,1945-11-10
+300,Kimberly Antczak,"01004 Lori Pass Suite 048
+Reneeside, NE 58076",True, Bachelors,False,104.0,1.05,0.0,0.0,False,False,0.03,1.5,342769.0,20.0, Not-in-family,True, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Tech-support,False, White,False,True,False,True,False,100.0,False,True,False,False,71.0,F,1947-10-08
+312,Laverne Nichols,"PSC 1949, Box 5825
+APO AA 94985",True, Some-college,False,141.0,0.95,0.0,0.0,True,False,0.1,3.1,101352.0,32.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Tech-support,False, White,False,True,False,True,False,149.0,False,True,False,False,75.0,F,1943-06-20
+337,Lynn Mccaskill,"89608 Rodriguez Plaza Apt. 682
+East Kathy, KS 10989",True, Bachelors,False,75.0,0.74,0.0,0.0,False,False,1.7,1.4,215115.0,40.0, Own-child,False, Federal-gov,False, Never-married,False, United-States,False,False,True,SVI,13.0, Tech-support,False, White,False,True,False,True,False,101.0,False,True,False,False,74.0,F,1944-06-18
+371,Mary Rodgers,"341 Andrew Mountain
+Port Bradleyville, WV 65216",True, Some-college,False,125.0,0.84,0.0,0.0,False,False,0.5,1.8461538461538463,145983.0,40.0, Wife,False, Federal-gov,False, Married-civ-spouse,False, United-States,False,False,False,other,10.0, Tech-support,False, White,False,True,False,True,False,149.0,False,True,False,False,82.0,F,1936-09-28
+386,Melvin Merriweather,"36053 Mccall Place Suite 840
+Lisaville, NH 08931",False, 12th,False,112.52631578947368,0.9800000000000001,0.0,0.0,False,False,5.172941176470588,1.6,207853.0,50.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,8.0, Tech-support,False, White,False,False,False,False,False,117.94736842105263,False,False,False,False,58.0,M,1960-07-03
+408,Nancy Pettrey,"63988 Robert Springs Apt. 640
+Christophershire, UT 91901",True, Assoc-acdm,False,120.0,0.97,0.0,0.0,False,False,0.2,2.7,282092.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,12.0, Tech-support,False, White,False,True,False,True,False,123.0,False,True,False,False,36.0,F,1982-06-15
+437,Raymond Jones,"902 Chavez Junction
+East Dillonburgh, DE 06009",True, 11th,False,80.0,0.72,0.0,0.0,False,False,2.1,1.8,109813.0,40.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,True,other,7.0, Tech-support,False, White,False,True,False,True,False,111.0,True,True,False,False,78.0,M,1939-12-30
+456,Rochelle Brown,"5041 Jackson Mills Suite 269
+Lake Jacquelineland, RI 06446",True, Bachelors,False,117.0,0.95,0.0,0.0,False,False,0.3,2.1,189219.0,16.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,13.0, Tech-support,False, White,False,True,False,True,False,123.0,False,True,False,False,75.0,F,1943-09-22
+460,Ronda Cummings,"8276 Walker Street Apt. 862
+South Eugeneville, NJ 44896",True, Some-college,False,112.0,0.83,0.0,2174.0,True,False,0.045,1.8461538461538463,198587.0,50.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Tech-support,False, Black,False,True,False,True,False,134.0,False,True,False,False,33.0,F,1985-06-30
+497,Sheri Cooper,"254 Gilbert Plains
+Hodgesmouth, NH 64578",True, Some-college,False,15.0,1.08,0.0,0.0,False,False,55.0,0.7,34446.0,37.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Tech-support,False, White,False,True,False,True,False,14.0,False,True,False,False,65.0,F,1952-11-13
+543,Veronica Rich,"849 Shane Rue
+New Taylorside, ME 04880",True, Doctorate,False,89.0,1.1,0.0,0.0,False,False,5.172941176470588,1.8461538461538463,343403.0,20.0, Wife,False, Private,False, Married-civ-spouse,True, United-States,False,False,False,other,16.0, Tech-support,False, White,False,False,False,True,False,81.0,False,True,False,False,35.0,F,1983-06-13
+552,Wayne Payne,"2681 Smith Port
+Sanchezborough, WI 02839",True, Some-college,False,110.0,1.01,0.0,0.0,False,False,0.005,2.3,92079.0,45.0, Husband,False, Private,True, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Tech-support,False, White,False,True,False,True,False,109.0,False,True,False,False,61.0,M,1957-05-31
+1,Ada Wells,"293 Thornton Throughway Apt. 385
+Lake Joseph, OK 61970",True, HS-grad,False,180.0,0.82,0.0,0.0,False,False,0.015,1.8,192964.0,65.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Sales,False, White,False,True,False,True,False,219.0,False,True,False,False,55.0,F,1962-12-27
+4,Adrian Carvalho,"46384 Pearson Circle Apt. 438
+Port Nicholasshire, IA 85077",True, Some-college,False,135.0,0.81,0.0,0.0,False,False,2.1,2.9,122066.0,25.0, Not-in-family,False, Self-emp-inc,False, Divorced,False, United-States,False,False,True,SVHC,10.0, Sales,False, White,False,True,False,True,False,167.0,False,True,False,False,19.0,M,1999-03-03
+11,Alicia Levey,"83505 Hampton Light Apt. 305
+Port Christopherport, UT 30383",True, HS-grad,False,95.0,1.09,0.0,0.0,False,False,3.2,1.8,165115.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Sales,False, White,False,True,False,True,False,87.0,False,True,False,False,47.0,F,1971-05-20
+17,Amanda Reynolds,"42212 Conway Parkways Apt. 104
+South Nicolefort, WI 11074",True, Some-college,False,109.0,1.18,0.0,5060.0,False,False,0.81,2.3,206827.0,30.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Sales,False, White,False,True,False,True,False,93.0,False,True,False,False,62.0,F,1956-02-29
+44,Beth Lewis,"08248 Joseph Road
+Lake Danielstad, MS 01092",True, Some-college,False,103.0,0.92,0.0,0.0,False,False,2.6,1.6,269657.0,35.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Sales,False, White,False,True,False,True,False,111.0,False,True,False,False,52.0,F,1966-03-09
+50,Betty Oldroyd,"8227 Monica Fields Suite 257
+Melissaberg, NC 75347",True, Bachelors,False,78.0,1.04,0.0,0.0,False,False,2.3,2.0,231620.0,40.0, Not-in-family,False, Private,False, Never-married,True, Mexico,False,False,True,other,9.75438596491228, Sales,False, White,False,True,False,True,False,75.0,False,True,False,False,54.0,F,1964-03-04
+58,Blanca Neilson,"USCGC Allen
+FPO AP 11097",True, Some-college,False,171.0,1.13,0.0,0.0,False,False,0.03,3.8,118376.0,15.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Sales,False, White,False,True,True,True,False,151.0,True,True,False,False,71.0,F,1947-07-11
+85,Catherine Hoffman,"798 Jennifer Estates Apt. 741
+Michaelmouth, OR 91359",True, 11th,False,108.0,0.88,0.0,0.0,False,False,0.2,2.2,401198.0,15.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,7.0, Sales,False, White,False,True,False,True,False,122.0,False,True,False,False,56.0,F,1962-08-10
+90,Charles Cowley,"9296 Evans Mountains Suite 036
+Hensleybury, SC 55144",True, Bachelors,False,91.0,0.84,0.0,0.0,False,False,2.1,2.2,114967.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Sales,False, White,False,True,False,True,False,108.0,False,True,False,False,56.0,F,1962-01-13
+97,Cheryl Pontes,"32123 Thomas Ridges Suite 481
+Bakerport, AZ 66194",False, Assoc_acdm,False,106.22950819672131,0.9932203389830508,0.0,0.0,False,False,5.627,2.007843137254902,71469.0,25.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,12.0, Sales,False, White,False,False,False,False,False,108.49152542372882,False,False,False,False,57.0,F,1960-12-28
+113,Clifford Walters,"740 Jasmine Underpass
+North Daniel, OR 01980",True, HS-grad,False,112.0,1.05,0.0,601.2835820895523,False,False,3.7,1.7,39054.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Sales,False, White,False,True,False,True,False,107.0,False,True,False,False,41.0,M,1976-11-07
+118,Cynthia Dials,"43433 Higgins Knolls
+East Morgan, SC 68069",True, HS-grad,False,72.0,0.95,0.0,0.0,True,False,116.0,0.7,169092.0,55.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Sales,False, White,False,True,False,True,False,76.0,False,True,False,False,49.0,F,1969-10-19
+123,Dan King,"PSC 6563, Box 4049
+APO AP 90176",False, Some-college,False,65.0,0.9932203389830508,0.0,5178.0,False,True,10.0,2.1,320984.0,60.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Sales,False, White,False,True,False,True,False,108.49152542372882,False,False,False,False,55.0,M,1963-03-14
+130,Dawn Yamada,"6603 Shields Mission Apt. 006
+Hillberg, AL 97092",True, Some-college,False,148.0,1.19,1974.0,0.0,False,False,1.8,1.8,275818.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.75438596491228, Sales,False, White,False,True,False,True,False,125.0,False,True,True,False,81.0,F,1937-04-22
+132,Deborah Davison,"8797 Jill Ports
+Ballfurt, AK 50062",True, Some-college,False,102.0,1.12,0.0,0.0,False,False,4.7,2.4,228395.0,20.0, Other-relative,False, Private,True, Never-married,False, United-States,False,False,True,other,9.75438596491228, Sales,False, Black,False,True,False,True,False,92.0,False,True,False,False,47.0,F,1971-01-30
+140,Donna Anderson,"2424 Mary Corners Suite 873
+New Jill, IA 43196",False, 11th,False,106.22950819672131,0.9932203389830508,0.0,0.0,False,False,5.627,2.007843137254902,138917.0,10.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,7.0, Sales,False, Black,False,False,False,False,False,108.49152542372882,False,False,False,False,51.0,F,1967-09-06
+161,Elizabeth Hoyman,"3731 Michaela Meadows Suite 552
+Sierraport, AL 51044",True, 11th,False,89.0,0.9,0.0,0.0,False,False,2.6,1.3,219034.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,7.0, Sales,False, White,False,True,False,True,False,98.0,False,True,False,False,33.0,F,1984-12-19
+168,Elvira Graham,"90872 David Parkways Apt. 496
+Lake Nicholasburgh, NE 04149",True, Some-college,False,141.0,1.12,0.0,0.0,False,False,5.627,3.9,33884.0,40.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,True,other,10.0, Sales,False, White,False,False,False,True,False,126.0,False,True,False,False,56.0,F,1962-01-05
+176,Faye Brewer,"2135 Tommy Drive
+Davishaven, AL 53959",False, Assoc-voc,False,106.22950819672131,0.9932203389830508,0.0,0.0,False,True,5.627,2.007843137254902,418961.0,25.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,9.75438596491228, Sales,False, Black,False,False,False,False,False,108.49152542372882,False,False,False,False,63.0,F,1955-08-08
+178,Flora Mcgee,"3926 Carlson Burg
+New Matthewbury, ND 22972",True, HS-grad,True,83.0,0.85,0.0,0.0,False,False,3.9,2.007843137254902,182416.0,42.0, Unmarried,False, Self-emp-not-inc,False, Never-married,False, United-States,False,False,False,SVHC,9.75438596491228, Sales,False, Black,False,True,False,True,False,97.0,False,True,False,False,35.0,F,1983-09-03
+189,Gail Smallwood,"USNS Tran
+FPO AP 62222",True, HS-grad,False,96.0,1.12,0.0,15024.0,False,False,4.7,1.9,210563.0,35.0, Wife,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Sales,False, White,False,True,False,True,False,85.0,False,True,False,False,46.0,F,1972-07-15
+196,Ginger Hays,"USNS Young
+FPO AP 22813",True, Some-college,False,80.0,0.92,0.0,0.0,True,False,6.3,1.2,75763.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.75438596491228, Sales,False, Amer-Indian-Eskimo,False,True,False,True,False,87.0,False,True,False,True,74.0,F,1943-12-30
+208,Harry Kubica,"5726 Michelle Tunnel
+New Robert, ME 44729",True, 1st-4th,False,108.0,1.07,0.0,0.0,False,False,2.2,3.2,307786.0,20.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,STMW,9.75438596491228, Sales,False, White,False,True,False,True,False,100.0,False,True,False,False,39.0,F,1979-09-24
+210,Heather Hernandez,"720 Brennan Meadow
+Dunnland, SC 38506",True, Prof-school,False,106.0,1.05,0.0,0.0,False,False,0.6,2.0,187983.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,15.0, Sales,False, White,False,True,False,True,False,101.0,False,True,False,False,72.0,F,1946-03-25
+215,Helen Perry,"72409 Reed Forest Suite 209
+Port Joan, WV 55241",True, 12th,False,147.0,1.13,0.0,0.0,False,False,1.8,2.5,167658.0,6.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,8.0, Sales,False, White,False,True,False,True,False,129.0,False,True,True,False,26.0,F,1992-08-03
+217,Henry Bondurant,"404 Steven Extensions
+Jessicaville, NH 13268",True, Bachelors,False,87.0,0.93,0.0,0.0,False,False,2.2,2.3,108435.0,50.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Sales,False, White,False,True,False,True,False,94.0,False,True,False,False,43.0,M,1975-05-08
+261,Jonathan Johnson,"558 Smith Wells Suite 014
+Stevenview, MA 94811",True, Some_college,False,84.0,0.85,0.0,15024.0,False,False,2.1,2.2,117849.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Sales,False, White,False,True,False,True,False,99.0,False,True,False,False,55.0,M,1963-07-07
+262,Jonathan Mildon,"75444 Brennan Plains
+Fisherborough, NM 35358",True, Some_college,False,156.0,1.17,0.0,0.0,False,False,1.4,2.0,83411.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,10.0, Sales,False, White,False,True,False,True,False,134.0,False,True,False,False,23.0,M,1995-02-05
+263,Jonathan Neace,"8576 Robert Wells
+New Eric, OH 56331",True, Assoc-voc,False,85.0,0.94,0.0,0.0,True,False,0.54,2.007843137254902,51264.0,40.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,False,other,11.0, Sales,False, White,False,True,False,True,False,91.0,False,True,False,False,62.0,M,1956-04-27
+266,Joseph Bednorz,"96459 John Glen
+West Melissaport, CA 17515",True, HS_grad,False,105.0,1.02,0.0,0.0,False,False,1.1,1.7,133969.0,50.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, South,False,False,True,SVHC,9.0, Sales,False, Asian-Pac-Islander,False,True,False,True,False,103.0,False,True,False,False,62.0,M,1955-12-28
+287,Kathryn Woodard,"752 Hines Locks Suite 577
+North Monicaside, WA 23196",True, HS-grad,False,125.0,1.13,0.0,0.0,False,False,0.02,2.007843137254902,102412.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,9.0, Sales,False, White,False,True,False,True,False,110.0,False,True,False,False,64.0,F,1953-11-10
+295,Kelly Seeholzer,"95267 Jorge Ports
+Mitchellshire, IL 09606",True, HS-grad,False,48.0,0.89,0.0,0.0,False,False,4.6,1.2,199856.0,50.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.75438596491228, Sales,False, White,False,True,False,True,False,54.0,False,True,False,False,46.0,F,1972-06-13
+299,Kevin Haslam,"041 Smith Summit
+New Amber, DC 42699",True, Some_college,False,109.0,1.14,0.0,0.0,False,False,0.75,2.3,160151.0,60.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,SVHD,10.0, Sales,False, White,False,True,False,True,False,95.0,False,True,False,False,54.0,M,1963-12-16
+306,Kristina Lewis,"2371 Obrien Court
+Campbellview, OR 07513",True, 10th,False,108.0,0.83,0.0,0.0,False,False,1.1,1.3,192237.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,6.0, Sales,False, White,False,True,False,True,False,130.0,False,True,False,False,49.0,F,1969-02-19
+307,Kristine Right,"222 Coleman Passage
+Sherihaven, ND 26607",True, HS_grad,False,139.0,1.07,0.0,0.0,False,False,0.045,2.007843137254902,234885.0,40.0, Wife,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,False,other,9.0, Sales,False, White,False,True,False,True,False,129.0,False,True,False,False,60.0,F,1958-09-11
+323,Lisa Sizer,"47398 Gina Stravenue
+New Jennifer, OR 13448",True, HS-grad,False,110.0,1.08,0.0,0.0,False,False,1.0,1.1,221661.0,35.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Sales,False, White,False,True,False,True,False,102.0,False,True,False,False,85.0,F,1933-05-15
+328,Loretta Merchant,"44809 Cole Ramp Suite 824
+Dianaton, RI 59994",False, HS-grad,False,106.22950819672131,0.9932203389830508,0.0,0.0,False,False,5.627,2.007843137254902,73054.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,9.0, Sales,False, White,False,False,False,False,False,108.49152542372882,False,False,False,False,29.0,F,1989-08-15
+352,Mario Stutz,"387 Stephanie Stream Apt. 688
+Sheppardbury, NY 32786",True, Some-college,False,125.0,1.13,0.0,0.0,False,False,2.6,3.0,298635.0,30.0, Own-child,False, Private,False, Never-married,False, Philippines,False,False,True,SVHC,10.0, Sales,False, Asian-Pac-Islander,False,True,False,True,False,111.0,False,True,True,False,39.0,M,1979-10-11
+353,Marion Cooper,"49180 Castillo Cliffs
+East Alexisville, VT 18863",True, Bachelors,False,83.0,0.7,1380.0,0.0,True,False,2.1,2.007843137254902,243605.0,40.0, Unmarried,False, Private,False, Widowed,False, Cuba,False,False,False,other,13.0, Sales,False, White,False,True,False,True,False,117.0,False,True,False,False,26.0,F,1992-08-20
+359,Marlene Smith,"2630 Conley Points
+Christopherton, MN 48857",True, Some-college,False,89.0,1.22,0.0,0.0,False,False,1.6,2.3,163015.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Sales,False, White,False,True,False,True,False,72.0,False,True,False,False,31.0,F,1987-09-05
+365,Mary Delaughter,"093 Gabrielle Cape
+Jasonport, WA 19131",True, HS-grad,False,126.0,1.18,0.0,0.0,True,False,21.0,1.8,141483.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Sales,False, White,False,True,False,True,False,107.0,False,True,False,True,74.0,F,1944-04-05
+367,Mary Hilton,"57266 Eric Lane
+Laurenchester, UT 41836",True, Some_college,False,162.0,1.21,0.0,0.0,False,False,1.1,2.6,275190.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.75438596491228, Sales,False, White,False,True,False,True,False,134.0,False,True,False,False,70.0,F,1948-08-01
+368,Mary Jackson,"1131 Bradley Ranch
+North Patrick, CA 20235",False, HS-grad,False,106.22950819672131,0.9932203389830508,0.0,0.0,False,False,5.627,2.007843137254902,150817.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,9.0, Sales,False, White,False,False,False,False,False,108.49152542372882,False,False,False,False,23.0,F,1994-11-28
+374,Mary Soto,"257 Griffin Road Apt. 149
+North Donnastad, CO 97219",True, HS-grad,False,160.0,1.1,0.0,0.0,True,False,0.54,1.8,184543.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Sales,False, White,False,True,False,True,False,146.0,False,True,False,False,50.0,F,1967-12-29
+378,Matthew Amato,"566 Garrett Grove Suite 944
+West Betty, VT 65203",True, 7th-8th,False,103.0,1.05,0.0,0.0,False,False,1.1,2.2,151210.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,SVHC,4.0, Sales,False, White,False,True,False,True,False,98.0,False,True,False,False,31.0,F,1986-11-05
+393,Michele Blue,"4032 Patrick Ways
+New Staceyburgh, MS 45198",True, Assoc-voc,False,117.0,0.77,0.0,0.0,False,False,0.04,1.9,78424.0,54.0, Unmarried,True, Private,False, Never-married,False, United-States,False,False,True,other,11.0, Sales,False, White,False,True,False,True,False,153.0,False,True,False,False,42.0,F,1976-07-16
+401,Morgan Song,"76083 Mary Port
+East Lesliefurt, UT 80066",False, Bachelors,False,94.0,0.9932203389830508,0.0,0.0,False,False,0.86,2.7,239321.0,40.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,9.75438596491228, Sales,False, White,False,True,False,True,False,108.49152542372882,False,False,False,False,49.0,M,1969-06-26
+414,Nicole Kitchens,"0618 Harper Trafficway Suite 647
+New Gloria, NH 21333",True, Bachelors,False,99.0,0.83,0.0,0.0,False,False,1.6,2.8,399449.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Sales,False, White,False,True,False,True,False,119.0,False,True,False,False,64.0,F,1954-06-11
+428,Phyliss Brummett,"934 Francis Unions Apt. 659
+Jeremyshire, CO 92488",True, Some-college,False,35.0,0.83,1602.0,0.0,False,False,17.0,2.007843137254902,240468.0,40.0, Own-child,False, Private,False, Married-spouse-absent,False, United-States,False,False,False,other,10.0, Sales,False, White,False,True,False,True,False,42.0,False,True,False,False,84.0,F,1934-01-04
+432,Ralph Dina,"Unit 8894 Box 3428
+DPO AP 64908",True, Bachelors,False,74.0,0.9,0.0,0.0,False,False,58.0,2.007843137254902,129775.0,65.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,13.0, Sales,False, White,False,True,False,True,False,82.0,False,True,False,False,19.0,M,1999-04-16
+445,Ricardo Jeter,"37444 Lisa Islands Suite 205
+Port Travis, WV 01668",True, HS-grad,False,100.0,1.01,0.0,0.0,False,False,0.005,1.5,124971.0,38.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Sales,False, White,False,True,True,True,False,99.0,False,True,False,False,41.0,M,1977-07-14
+468,Roseann Carson,"84516 Peterson Grove
+Port Williammouth, SD 64207",True, Some-college,False,85.0,0.89,0.0,0.0,False,False,6.9,2.007843137254902,27049.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Sales,False, White,False,True,False,True,False,95.0,False,True,False,False,33.0,F,1984-12-31
+480,Samantha Bechel,"65840 Arellano Stravenue
+Cannonmouth, DE 70112",True, HS-grad,False,73.0,1.09,0.0,0.0,False,False,1.4,2.3,126399.0,32.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Sales,False, White,False,True,False,True,False,67.0,False,True,False,True,24.0,F,1994-09-17
+482,Samuel Owston,"9334 Payne Fork Apt. 794
+Alisonside, MO 79887",True, Bachelors,False,135.0,1.0,0.0,0.0,False,False,4.0,1.8,57426.0,45.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,13.0, Sales,False, White,False,True,False,True,False,134.0,False,True,False,False,34.0,M,1984-10-07
+485,Sara Smith,"075 Vanessa Bypass Suite 034
+Jonathantown, NJ 86885",True, Some-college,False,96.0,0.82,0.0,0.0,False,False,3.0,2.007843137254902,184045.0,30.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,False,other,9.75438596491228, Sales,False, Black,False,True,False,True,False,118.0,False,True,False,False,30.0,F,1988-04-19
+488,Sean Infante,"76518 Crystal Mews Apt. 707
+Brandistad, IA 27971",True, Some-college,False,110.0,0.89,0.0,0.0,False,False,2.0,1.5,72310.0,43.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Sales,False, White,False,True,False,True,False,124.0,False,True,False,False,68.0,M,1950-05-07
+491,Sharon Mcgill,"567 Elizabeth Forge
+Gonzalesmouth, GA 91687",True, HS-grad,False,140.0,0.95,0.0,0.0,False,False,0.02,1.6,461337.0,33.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Sales,False, White,False,True,False,True,False,148.0,False,True,False,False,59.0,F,1959-01-11
+495,Sheila Eason,"9886 David Neck Apt. 108
+Lake Tyler, WV 15076",True, Bachelors,False,118.0,1.19,0.0,0.0,False,False,2.9,2.6,35378.0,45.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Sales,False, White,False,True,False,True,False,99.0,False,True,False,False,77.0,F,1941-08-14
+498,Shirley Alba,"893 Ross Canyon
+North Patricia, MD 95213",True, HS-grad,False,71.0,1.1,0.0,0.0,False,False,0.045,2.1,126730.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Sales,False, White,False,True,False,True,True,64.0,False,True,False,False,35.0,F,1983-04-01
+503,Sondra Hollenbeck,"Unit 1923 Box 1542
+DPO AP 49182",True, HS-grad,False,100.0,0.86,0.0,0.0,False,False,2.6,1.3,184678.0,32.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Sales,False, White,False,True,False,True,False,117.0,False,True,False,False,83.0,F,1935-03-10
+505,Stacie Vy,"664 Mclean Mission Apt. 274
+East Krystalberg, MS 60594",False, 12th,False,106.22950819672131,0.9932203389830508,0.0,0.0,False,False,5.627,2.007843137254902,121037.0,15.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,8.0, Sales,False, White,False,False,False,False,False,108.49152542372882,False,False,False,False,31.0,F,1987-01-11
+508,Stacy White,"868 Cheryl Meadow
+Gilestown, PA 78035",True, HS-grad,False,84.0,0.78,0.0,0.0,False,False,6.8,0.7,191002.0,40.0, Not-in-family,False, Private,False, Never-married,False, Poland,False,False,True,SVI,9.0, Sales,False, White,False,True,False,True,False,107.0,True,True,False,False,59.0,F,1959-10-24
+518,Susan Tarleton,"PSC 6901, Box 9117
+APO AP 33102",True, Some-college,False,127.0,1.19,0.0,0.0,True,False,0.7,2.007843137254902,66838.0,9.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Sales,False, White,False,True,False,True,False,107.0,False,True,False,False,51.0,F,1967-07-08
+531,Tiffany Carr,"58957 Chad Squares
+New Juanport, OK 97895",True, HS-grad,False,97.0,0.91,0.0,0.0,False,False,2.8,1.7,178469.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Sales,False, White,False,True,False,True,False,107.0,False,True,False,False,59.0,F,1959-03-12
+532,Timmy Pratt,"19646 Corey Unions
+Kathleenstad, AZ 27852",True, HS_grad,False,61.0,0.49,0.0,0.0,True,False,1.4,0.8,156266.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Sales,False, Amer-Indian-Eskimo,False,True,False,True,False,124.0,False,True,False,False,73.0,M,1944-11-25
+541,Vera Steinert,"USS Perez
+FPO AE 99200",False, Some-college,False,106.22950819672131,0.9932203389830508,0.0,0.0,False,False,5.627,2.007843137254902,104024.0,40.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Sales,False, White,False,False,False,False,False,108.49152542372882,False,False,False,False,32.0,F,1986-04-22
+548,Virginia France,"6774 Victoria Flats
+Martinezborough, PA 81260",True, 11th,False,120.0,1.11,0.0,0.0,True,False,6.3,1.3,260594.0,25.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,other,7.0, Sales,False, White,False,True,False,True,False,109.0,False,True,False,False,78.0,F,1940-04-12
+551,Walter Brumfield,"99618 Arias Crossroad
+Abbottfort, PA 74535",True, Bachelors,False,121.0,1.17,0.0,0.0,False,False,2.7,2.7,97128.0,45.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,13.0, Sales,False, White,False,True,False,True,False,104.0,False,True,True,False,19.0,M,1999-08-11
+2,Adam Wolfgram,"82295 Cooper Ports
+West Erika, CT 37575",True, HS-grad,False,79.0,0.86,0.0,0.0,False,False,2.0,2.5,255621.0,50.0, Not-in-family,False, Private,False, Separated,False, United-States,False,False,True,other,9.0, Craft-repair,False, White,False,True,False,True,False,92.0,False,True,False,False,68.0,M,1949-12-08
+7,Albert Saunders,"49882 Adams Mews Apt. 985
+Brittanyshire, DC 98968",True, 11th,False,62.0,0.94,1902.0,0.0,False,False,0.1,1.982857142857143,160786.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,7.0, Craft-repair,False, White,False,True,False,True,False,66.0,False,True,False,False,43.0,M,1975-04-17
+12,Allen Gonzalez,"PSC 8580, Box 7042
+APO AP 60567",True, 7th-8th,False,83.0,1.14,0.0,0.0,False,False,0.25,2.0,431245.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,4.0, Craft-repair,False, White,False,True,True,True,False,72.0,False,True,False,False,37.0,M,1981-01-28
+21,Andrew Fowler,"13918 Cook Mews Apt. 435
+East Jason, SC 39886",False, HS-grad,False,67.0,0.9048571428571429,0.0,0.0,False,False,10.0,0.3,203488.0,60.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Craft-repair,False, White,False,True,False,True,False,105.48571428571428,True,False,True,True,45.0,M,1973-09-21
+91,Charles Deutsch,"58627 Samantha Drive
+West Charlesport, VA 90374",False, HS_grad,False,116.0,0.9048571428571429,0.0,14344.0,False,False,0.87,1.9,274562.0,40.0, Not-in-family,False, Self-emp-not-inc,False, Never-married,False, United-States,False,False,True,other,9.0, Craft-repair,False, White,False,True,False,True,False,105.48571428571428,False,False,False,False,56.0,F,1961-11-24
+95,Charlotte Vasquez,"Unit 8584 Box 5503
+DPO AE 40523",True, HS-grad,False,121.0,1.13,0.0,0.0,False,False,1.4,1.6,108859.0,40.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,True,other,9.0, Craft-repair,False, Black,False,True,False,True,False,107.0,False,True,False,False,79.0,F,1939-10-23
+116,Cordell Genovese,"5064 Martin Islands
+Charlesberg, WY 27187",True, HS-grad,False,54.0,0.93,0.0,0.0,False,False,0.68,2.0,111971.0,30.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Craft-repair,False, White,False,True,False,True,False,58.0,False,True,False,False,43.0,M,1974-10-29
+121,Dale Dunn,"82237 Hardin Hill
+New Jessicaburgh, UT 21164",True, 7th-8th,False,78.0,0.56,0.0,0.0,False,False,2.4,0.2,238917.0,36.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,True,SVI,4.0, Craft-repair,False, White,False,True,False,True,False,139.0,False,True,False,False,75.0,M,1943-01-25
+136,Derrick Lara,"5396 Pierce Grove Apt. 462
+New Justin, CA 86976",True, Some-college,False,62.0,0.54,1740.0,0.0,False,False,3.9,0.9,146440.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Craft-repair,False, White,False,True,False,True,False,115.0,True,True,False,False,73.0,M,1944-11-26
+150,Douglas Johnson,"USNV Le
+FPO AE 88629",True, HS-grad,False,120.0,0.98,0.0,0.0,False,False,1.0,2.4,113466.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Craft-repair,False, White,False,True,False,True,False,123.0,False,True,False,False,33.0,M,1985-09-02
+155,Edward Carmichael,"1707 William Vista
+North Larrystad, NM 39690",True, HS-grad,False,111.0,0.78,0.0,0.0,False,False,1.8,1.4,203488.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.314285714285715, Craft-repair,False, White,False,True,False,True,False,142.0,False,True,False,False,76.0,M,1942-02-19
+166,Ella Cox,"008 Brian Tunnel
+Johnsonton, AK 31033",True, Some-college,False,91.0,1.03,0.0,0.0,False,False,6.7,1.9,286730.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,10.0, Craft-repair,False, White,False,True,False,True,False,89.0,False,True,False,False,71.0,F,1947-04-09
+186,Frank Gerace,"43018 Bennett Isle Suite 064
+West Caroltown, ND 75456",True, HS-grad,False,138.0,1.13,0.0,0.0,False,False,0.1,2.8,200733.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,9.0, Craft-repair,False, White,False,True,False,True,False,122.0,False,True,True,False,35.0,M,1983-07-18
+203,Guillermo Korn,"5064 Williams Square
+Harperborough, WV 98569",True, Some-college,False,115.0,0.92,0.0,0.0,False,False,1.7,1.0,197752.0,40.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Craft-repair,False, White,False,True,False,True,False,125.0,False,True,False,False,23.0,M,1994-11-25
+224,Jack Graham,"05182 Heather Forest
+Taylorton, UT 33956",True, Bachelors,False,65.0,0.63,0.0,0.0,False,False,1.9,1.0,84619.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,13.0, Craft-repair,False, White,False,True,False,True,False,105.0,False,True,False,False,67.0,M,1951-09-06
+235,James Thomas,"9411 Burton Vista
+Patrickchester, IA 63530",True, HS_grad,False,78.0,0.85,0.0,0.0,False,False,0.86,1.9,47678.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Craft-repair,False, White,False,True,False,True,False,91.0,False,True,False,False,62.0,M,1956-07-30
+269,Joseph Vivian,"074 Nelson Lakes
+East Scott, MD 59689",True, HS-grad,False,101.0,0.94,0.0,0.0,False,False,2.4,2.0,33795.0,45.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,SVHD,9.0, Craft-repair,False, White,False,True,False,True,False,107.0,True,True,False,False,64.0,M,1954-07-15
+270,Joshua Campos,"48177 Anderson Views
+Andrewsland, NM 16046",True, 5th-6th,False,66.0,0.66,0.0,0.0,False,False,8.0,1.982857142857143,249249.0,50.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,False,other,9.314285714285715, Craft-repair,False, White,False,True,False,True,False,100.0,False,True,False,False,71.0,M,1947-09-20
+280,Karl Sanchez,"53734 Melissa Lodge Apt. 952
+Hamiltontown, NC 22015",True, Some-college,False,62.0,0.77,0.0,0.0,False,False,1.3,1.9,191291.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Craft-repair,False, White,False,True,False,True,False,81.0,False,True,False,False,36.0,M,1982-07-23
+343,Marc Mcgee,"Unit 1269 Box 7598
+DPO AP 60394",True, HS-grad,False,108.0,0.7,0.0,0.0,False,False,0.01,2.4,101299.0,40.0, Husband,False, Private,True, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Craft-repair,False, White,False,True,False,True,False,154.0,False,True,False,False,52.0,M,1966-06-19
+354,Mark Clennon,"5517 Burns Via
+New Dylanberg, AZ 98011",True, Assoc-voc,False,162.0,1.15,0.0,0.0,False,False,36.0,4.5,327573.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,STMW,9.314285714285715, Craft-repair,False, White,False,True,False,True,False,142.0,False,True,False,True,25.0,F,1993-06-06
+387,Melvin Ramirez,"176 Katherine Freeway
+Jenniferberg, MT 91258",True, Bachelors,False,114.0,0.93,0.0,0.0,True,False,0.005,2.5,180211.0,30.0, Husband,False, Private,False, Married-civ-spouse,False, Philippines,False,False,True,other,13.0, Craft-repair,False, Asian-Pac-Islander,False,True,False,True,False,122.0,False,True,False,False,61.0,M,1957-04-30
+390,Michael Cardona,"82678 Daniels Loop Suite 471
+Mitchellmouth, NY 59233",True, Some-college,False,60.0,0.65,0.0,0.0,False,False,3.949078947368421,1.6,176073.0,50.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,10.0, Craft-repair,False, White,False,False,False,True,False,92.0,False,True,False,False,54.0,M,1963-12-08
+392,Michael Mcmahan,"38946 Quinn Club
+East David, TX 55594",True, Some-college,False,93.0,0.87,0.0,0.0,False,False,0.005,2.2,102130.0,40.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Craft-repair,False, White,False,True,False,True,False,107.0,False,True,False,False,71.0,M,1947-09-17
+398,Mike Marshall,"525 Green Ford Apt. 397
+Crossland, MN 92974",True, 11th,False,99.0,0.73,0.0,0.0,False,False,0.02,2.4,27207.0,45.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,7.0, Craft-repair,False, White,False,True,False,True,True,135.0,False,True,False,False,79.0,M,1939-01-31
+399,Monte Gehl,"USNS Roberts
+FPO AE 85867",False, Bachelors,False,73.0,0.9048571428571429,0.0,0.0,False,False,0.7,0.9,272950.0,45.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Craft-repair,False, White,False,True,False,True,False,105.48571428571428,False,False,False,False,70.0,M,1948-04-02
+411,Nelson Bartz,"5452 Gerald Well
+Elizabethburgh, CA 59419",True, HS_grad,False,82.0,0.69,0.0,0.0,True,False,8.1,1.982857142857143,48087.0,40.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,False,other,9.0, Craft-repair,False, White,False,True,False,True,False,119.0,False,True,False,True,63.0,M,1954-12-03
+435,Raymond Archer,"665 Bryan Light Suite 625
+Lake Charles, MA 13703",True, Some-college,False,107.0,1.09,0.0,0.0,False,True,1.1,2.8,38918.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, Germany,False,False,True,other,10.0, Craft-repair,False, White,False,True,False,True,False,99.0,False,True,False,False,40.0,M,1978-03-08
+436,Raymond Clark,"702 Brenda Port
+Stanleymouth, NY 64200",True, Some-college,False,80.0,0.91,0.0,0.0,False,False,2.0,1.8,319280.0,40.0, Not-in-family,False, Federal-gov,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Craft-repair,False, White,False,True,False,True,False,88.0,False,True,False,False,64.0,M,1954-03-22
+443,Rhonda Bolebruch,"1711 Jose Centers
+Jonesshire, UT 07645",True, Bachelors,False,88.0,0.93,0.0,0.0,False,False,2.1,1.982857142857143,53506.0,40.0, Own-child,False, Private,False, Divorced,False, United-States,False,False,False,other,13.0, Craft-repair,False, White,False,True,False,True,False,95.0,False,True,False,False,73.0,F,1944-11-01
+457,Roger Ortiz,"3174 Sabrina Neck Suite 695
+New Jeremyberg, MO 45514",True, HS-grad,False,92.0,0.8,0.0,0.0,False,False,2.0,2.3,230429.0,35.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Craft-repair,False, White,False,True,False,True,False,114.0,False,True,False,False,25.0,M,1993-05-26
+459,Roger Watts,"2373 Nicole Mills Apt. 786
+East Amyport, GA 87920",True, HS-grad,False,83.0,0.96,0.0,0.0,False,False,2.1,2.0,165412.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Craft-repair,False, White,False,True,False,True,False,87.0,False,True,False,True,67.0,M,1950-11-24
+461,Ronnie Campbell,"36279 Solomon Walks
+South Spencerstad, WV 92102",True, Some-college,False,89.0,0.91,1876.0,0.0,False,False,1.3,2.7,292472.0,45.0, Not-in-family,False, Private,False, Never-married,False, Cambodia,False,False,True,SVHC,10.0, Craft-repair,False, Asian-Pac-Islander,False,True,False,True,False,99.0,False,True,True,False,57.0,M,1961-01-24
+466,Rose Crosby,"42253 David Course
+Shahchester, SD 53542",True, 7th-8th,False,148.0,1.48,0.0,0.0,False,False,0.7,5.4,196963.0,30.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,STMW,4.0, Craft-repair,False, White,False,True,False,True,False,100.0,False,True,False,False,20.0,F,1997-10-19
+494,Sheila Caravello,"945 Nancy Common
+North Jenniferside, HI 54557",False, Masters,False,139.0,0.9048571428571429,0.0,0.0,True,False,0.065,1.8,333270.0,35.0, Wife,True, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,14.0, Craft-repair,False, Asian-Pac-Islander,False,True,False,True,False,105.48571428571428,False,False,False,False,38.0,F,1980-04-10
+499,Shirley Rhein,"298 Debbie Bypass
+North Jennifertown, DE 67347",True, HS_grad,False,180.0,1.3,0.0,0.0,False,False,2.1,2.3,131588.0,45.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Craft-repair,False, Black,False,True,False,True,False,139.0,False,True,False,False,70.0,F,1948-10-17
+512,Stephen Wood,"8801 Stewart Harbors Suite 140
+Duncanburgh, MS 22548",True, HS-grad,False,75.0,0.82,0.0,0.0,False,False,5.4,1.0,176811.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Craft-repair,False, White,False,True,False,True,False,92.0,False,True,False,False,72.0,M,1946-11-10
+516,Stuart Kelley,"15026 Novak Shoals
+Markside, FL 56753",True, HS-grad,False,37.0,0.74,0.0,0.0,False,False,38.0,0.4,94235.0,40.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Craft-repair,False, White,False,True,False,True,False,50.0,False,True,False,True,71.0,M,1947-03-24
+558,Willie Hilchey,"5513 Chelsea Lakes Suite 857
+Charlestown, NJ 42814",True, Assoc-voc,False,150.0,1.22,0.0,0.0,False,False,1.0,2.7,199725.0,60.0, Not-in-family,False, Federal-gov,False, Divorced,False, United-States,False,False,True,SVHC,9.314285714285715, Craft-repair,False, Amer-Indian-Eskimo,False,True,False,True,False,124.0,False,True,False,False,22.0,F,1996-05-06
+3,Addie Taggart,"912 Phillips Junction Apt. 345
+Joshualand, DC 22172",False, 5th-6th,False,140.0,1.0595275590551179,0.0,0.0,False,False,2.3,0.9,159542.0,40.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,SVI,3.0, Adm-clerical,False, Black,False,True,False,True,False,108.91338582677166,False,False,False,False,88.0,F,1930-06-14
+9,Alice Bush,"383 Timothy Brooks Apt. 744
+Matthewchester, AL 06911",True, Some-college,False,120.0,1.22,0.0,0.0,False,False,1.2,3.5,117109.0,24.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, Black,False,True,False,True,False,98.0,False,True,False,False,30.0,F,1988-05-14
+10,Alice Pritt,"7587 Blankenship Trafficway Suite 340
+Knightside, NV 14305",True, Some-college,False,107.0,1.07,0.0,0.0,False,False,3.3843307086614174,2.14,73809.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,10.0, Adm-clerical,False, White,False,False,False,True,False,100.0,False,True,False,False,21.0,F,1996-10-31
+13,Alma Hatcher,"230 Jennifer Shores Apt. 494
+Port Jessicaview, MN 73079",True, HS_grad,False,111.0,1.02,0.0,0.0,False,False,1.1,1.7,180607.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,108.0,False,True,False,False,79.0,F,1939-03-29
+14,Alma Mulvihill,"96553 Davis Mountain Apt. 604
+Samanthahaven, ME 16108",True, Some-college,False,157.0,0.9,0.0,0.0,False,False,0.2,1.8,199915.0,35.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,175.0,False,True,False,False,22.0,F,1996-05-21
+16,Amanda Oliver,"Unit 5641 Box 6865
+DPO AA 33172",True, Some-college,False,91.0,0.93,0.0,0.0,False,False,1.8,2.1,94174.0,35.0, Unmarried,False, State-gov,False, Divorced,False, United-States,False,False,True,other,9.713178294573643, Adm-clerical,False, White,False,True,False,True,False,98.0,False,True,False,False,24.0,F,1993-11-06
+18,Amy Skowron,"746 Keith Lane
+Jefferyview, RI 19326",True, Some-college,False,99.0,1.16,0.0,0.0,False,False,6.6,2.2,164733.0,45.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,85.0,False,True,False,False,62.0,F,1956-04-20
+19,Andrea Dixon,"00093 Long Walks
+Chenberg, VT 62400",True, Some-college,False,155.0,1.43,0.0,0.0,False,False,2.4,2.7,193416.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Adm-clerical,False, White,False,True,False,True,False,109.0,False,True,False,False,37.0,F,1981-01-19
+20,Andres Adams,"00513 Timothy Meadows
+Armstrongstad, AK 52536",True, 10th,False,82.0,0.88,0.0,0.0,False,False,1.7,2.3,212125.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,STMW,6.0, Adm-clerical,False, White,False,True,False,True,False,93.0,False,True,False,False,35.0,F,1983-10-05
+23,Angela Gibson,"099 Sullivan Via Suite 694
+Karimouth, NC 22783",True, Some-college,False,105.0,1.09,0.0,0.0,False,False,0.9,2.2,202856.0,36.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,96.0,False,True,False,True,76.0,F,1942-10-17
+26,Anissa Salinas,"677 Johnson Wells Apt. 815
+Kramerborough, WI 80409",True, Bachelors,False,63.0,1.2,0.0,0.0,False,False,24.0,2.14,266639.0,40.0, Not-in-family,True, Self-emp-inc,False, Never-married,False, United-States,False,False,False,other,13.0, Adm-clerical,False, White,False,True,False,True,False,53.0,False,True,False,False,29.0,F,1989-09-27
+30,Anna Harris,"Unit 4047 Box 8385
+DPO AP 46076",True, Some-college,False,121.0,1.09,0.0,0.0,False,False,3.3843307086614174,2.14,170038.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Adm-clerical,False, White,False,False,False,True,False,111.0,False,True,False,False,24.0,F,1994-01-26
+45,Betty Cassel,"888 Melissa Burgs
+New Justinshire, WV 92726",True, HS-grad,False,139.0,1.15,0.0,0.0,False,False,1.0,2.4,311913.0,40.0, Wife,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,121.0,False,True,False,False,82.0,F,1935-12-09
+48,Betty Keith,"9609 Jason Plaza
+South Heather, CT 54363",True, HS-grad,False,85.0,0.81,0.0,0.0,False,False,0.5,2.3,371089.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,105.0,False,True,False,False,56.0,F,1962-01-18
+49,Betty Northey,"608 Burton Groves
+Serranoburgh, IA 49241",True, Assoc-voc,False,94.0,0.82,0.0,0.0,False,False,0.9,1.8,115178.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,11.0, Adm-clerical,False, White,False,True,False,True,False,115.0,False,True,False,False,70.0,F,1948-06-26
+53,Betty Taylor,"42207 Michele Mills Suite 883
+Sanchezfurt, IA 27323",True, Some-college,False,60.0,0.77,0.0,0.0,False,False,5.0,1.7,166327.0,35.0, Not-in-family,False, State-gov,False, Divorced,False, United-States,False,False,True,other,10.0, Adm-clerical,False, Black,False,True,False,True,False,78.0,False,True,False,False,56.0,F,1962-06-08
+54,Beulah Schrom,"13205 Hunt Lane Apt. 365
+East David, AK 44930",True, Some-college,False,86.0,0.72,0.0,0.0,False,False,6.5,0.7,138662.0,40.0, Own-child,False, Private,False, Separated,False, United-States,False,False,True,SVI,10.0, Adm-clerical,False, White,False,True,False,True,False,120.0,False,True,False,True,63.0,F,1955-09-20
+56,Beverly Kitts,"92624 Gates Lock
+Stoutberg, OH 61338",True, HS-grad,False,85.0,1.19,0.0,0.0,False,False,0.31,2.2,206947.0,40.0, Not-in-family,False, Private,True, Divorced,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,71.0,False,True,False,False,75.0,F,1943-02-05
+61,Brenda Bennett,"7611 Martin Springs
+Fisherburgh, LA 13369",True, 10th,False,160.0,1.51,0.0,2907.0,False,False,0.2,2.8,48718.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,STMW,6.0, Adm-clerical,False, White,False,True,False,True,True,106.0,False,True,False,False,34.0,F,1984-07-08
+64,Brenda Wilson,"129 Brock Fork
+West Tony, CA 50552",True, Some-college,False,143.0,1.33,0.0,0.0,False,False,0.25,3.0,222130.0,43.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Adm-clerical,False, White,False,True,False,True,False,108.0,False,True,False,False,24.0,F,1994-06-23
+73,Candance Howe,"1019 Holly Roads Suite 611
+Aaronfort, AL 44692",True, Some_college,False,98.0,0.8,0.0,0.0,False,False,4.8,0.6,269243.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Adm-clerical,False, White,False,True,False,True,False,122.0,False,True,False,True,50.0,F,1968-08-04
+76,Carla Kinyon,"Unit 4382 Box 7635
+DPO AA 23097",True, Masters,False,109.0,1.0,1980.0,0.0,False,False,1.01,1.8,126104.0,45.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,14.0, Adm-clerical,False, White,False,True,True,True,False,109.0,False,True,False,False,44.0,F,1974-02-11
+84,Catherine Gainer,"07754 Christina Lakes
+South Catherineberg, UT 50588",True, HS-grad,False,13.0,0.99,0.0,0.0,False,False,60.0,0.3,173002.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,13.0,False,True,False,False,53.0,F,1964-12-27
+86,Catherine Mccoy,"293 Malone Parkway Suite 277
+Port Marcchester, NV 28765",True, Some-college,False,158.0,1.42,0.0,0.0,False,False,0.3,4.1,202721.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.713178294573643, Adm-clerical,False, Black,False,True,False,True,False,111.0,False,True,False,False,25.0,F,1993-05-11
+89,Chante Johnson,"42183 Jesse Creek
+Kimberlyview, RI 99766",True, Some-college,False,33.0,0.7,0.0,0.0,False,False,28.0,0.2,20057.0,38.0, Unmarried,False, State-gov,False, Married-spouse-absent,False, Philippines,False,False,True,SVI,10.0, Adm-clerical,False, Asian-Pac-Islander,False,True,False,True,False,47.0,False,True,False,False,50.0,F,1968-07-03
+92,Charles Eisentrout,"PSC 5548, Box 1887
+APO AP 00711",True, 7th-8th,False,122.0,1.13,0.0,0.0,False,False,2.2,2.8,515712.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,4.0, Adm-clerical,False, White,False,True,False,True,False,109.0,True,True,False,False,62.0,M,1956-01-23
+93,Charles Rieger,"790 Margaret Place Suite 895
+Port Jennifer, UT 38637",True, Bachelors,False,131.0,0.91,0.0,0.0,False,False,0.05,2.5,209137.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.713178294573643, Adm-clerical,False, White,False,True,False,True,False,144.0,False,True,False,False,40.0,M,1978-07-10
+98,Chester Nelson,"PSC 6610, Box 0748
+APO AP 57907",True, Some-college,False,130.0,1.01,0.0,0.0,False,False,2.3,2.5,222381.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,129.0,False,True,False,False,39.0,M,1979-03-14
+100,Christal Hardeman,"551 Moore Circles Suite 544
+Lake Dorothyside, AZ 97996",True, Assoc_acdm,False,144.0,1.17,0.0,0.0,False,False,1.3,2.8,35683.0,10.0, Unmarried,False, Local-gov,False, Divorced,False, United-States,False,False,True,other,9.713178294573643, Adm-clerical,False, White,False,True,False,True,False,123.0,False,True,False,False,29.0,F,1989-09-26
+106,Christopher Haddock,"52110 Ryan Corner Suite 169
+North Aaron, IL 50417",True, 7th-8th,False,98.0,0.99,0.0,0.0,False,False,0.7,2.1,83511.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, Portugal,False,False,True,SVI,4.0, Adm-clerical,False, White,False,True,False,True,False,100.0,False,True,False,False,37.0,M,1981-05-06
+107,Cindy Jackson,"PSC 0179, Box 7685
+APO AP 51870",True, HS-grad,False,76.0,0.88,0.0,0.0,False,False,2.7,1.5,278763.0,40.0, Unmarried,False, Federal-gov,False, Divorced,False, United-States,False,False,True,SVHC,9.0, Adm-clerical,False, White,False,True,False,True,False,86.0,False,True,True,False,38.0,F,1980-07-15
+108,Clair Rutherford,"54243 Gross Crossing Suite 416
+Mariastad, KY 40915",True, Some-college,False,101.0,0.84,0.0,0.0,False,True,0.005,2.7,87569.0,40.0, Not-in-family,False, Private,False, Separated,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,121.0,False,True,False,False,80.0,F,1938-05-24
+109,Clara Miller,"PSC 7802, Box 4064
+APO AP 89691",True, HS_grad,False,122.0,1.16,0.0,0.0,False,False,0.05,2.6,242122.0,40.0, Unmarried,False, State-gov,False, Separated,False, United-States,False,False,True,other,9.0, Adm-clerical,False, Black,False,True,False,True,False,105.0,False,True,False,False,42.0,F,1976-03-01
+119,Cynthia Searles,"4946 Andrew Centers Apt. 048
+Caseyville, AL 34721",False, Some-college,False,113.28148148148148,1.0595275590551179,0.0,0.0,True,False,3.3843307086614174,2.14,32604.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Adm-clerical,False, Black,False,False,False,False,False,108.91338582677166,False,False,False,False,8.0,F,2010-07-12
+137,Diane Watson,"Unit 2575 Box 5807
+DPO AP 05934",True, HS-grad,False,130.0,0.85,0.0,0.0,False,False,6.2,0.5,190040.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.713178294573643, Adm-clerical,False, White,False,True,False,True,False,153.0,False,True,False,False,76.0,F,1941-12-06
+139,Dona Buchmann,"PSC 1043, Box 6500
+APO AE 55471",True, Assoc-voc,False,123.0,1.14,0.0,0.0,False,False,0.83,2.4,120478.0,1.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,11.0, Adm-clerical,False, White,False,True,False,True,False,108.0,False,True,False,False,69.0,F,1949-09-05
+141,Donna Flory,"USS Riddle
+FPO AA 74299",True, HS-grad,False,103.0,1.02,0.0,0.0,False,False,1.6,2.5,300623.0,40.0, Unmarried,False, State-gov,False, Divorced,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,101.0,False,True,False,False,57.0,F,1961-09-14
+147,Dorothy Vaughn,"57386 Cindy Plaza
+Jaimefort, AZ 70272",True, HS-grad,False,160.0,0.87,0.0,0.0,False,False,0.01,1.5,46699.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,185.0,False,True,False,False,33.0,F,1985-04-28
+148,Dorthy Bell,"5149 James Village
+Garnerton, RI 63245",True, Assoc-voc,False,184.0,1.14,0.0,0.0,True,False,0.005,3.6,209831.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,11.0, Adm-clerical,False, White,False,True,False,True,False,162.0,False,True,False,False,75.0,F,1943-01-07
+151,Douglas Pagan,"USS Wilson
+FPO AA 13995",True, Some-college,False,93.0,0.9,0.0,0.0,False,False,1.1,1.8,41035.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,103.0,False,True,False,False,34.0,M,1984-10-10
+154,Edna Williams,"58670 Brian Mission
+South Kathleen, WI 88592",True, HS-grad,False,95.0,1.05,0.0,0.0,False,False,1.2,2.4,102597.0,35.0, Unmarried,False, Private,False, Widowed,False, United-States,False,True,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,90.0,False,True,False,False,55.0,F,1963-05-30
+158,Elisa Hardy,"5955 Turner Ridges Apt. 367
+Evanport, DE 32520",True, Bachelors,False,122.0,1.66,0.0,0.0,False,False,0.02,2.3,55950.0,40.0, Own-child,False, Private,False, Never-married,False, Germany,False,False,True,STMW,13.0, Adm-clerical,False, Black,False,True,True,True,False,73.0,False,True,False,False,34.0,F,1984-07-02
+159,Elizabeth Bozell,"374 Cook Turnpike
+North Donna, NV 96700",True, Some-college,False,110.0,1.02,0.0,0.0,False,False,1.1,1.9,213977.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Adm-clerical,False, White,False,True,False,True,False,108.0,False,True,False,False,63.0,F,1955-01-22
+160,Elizabeth Elliott,"6465 Smith Knolls Suite 008
+Douglasbury, ME 64129",True, Some-college,False,152.0,1.5,0.0,0.0,False,False,1.6,5.4,103277.0,35.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,STMW,10.0, Adm-clerical,False, White,False,True,False,True,False,102.0,False,True,False,False,25.0,F,1992-12-30
+162,Elizabeth Johnston,"1365 Justin Lodge Apt. 633
+East Justin, UT 86071",True, HS-grad,False,61.0,0.77,0.0,0.0,False,False,2.0,1.0,145214.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,80.0,False,True,False,False,60.0,F,1958-06-24
+167,Elsa Phillips,"80005 Weiss Dam
+Port Daniel, VA 07724",True, HS-grad,False,112.0,0.98,0.0,0.0,False,False,1.1,2.2,55743.0,30.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,STMW,9.0, Adm-clerical,False, Black,False,True,False,True,False,115.0,False,True,False,False,25.0,F,1993-03-09
+169,Emilia Annis,"735 Michael Brooks
+East Samuel, LA 61837",True, Assoc-acdm,False,172.0,0.99,0.0,0.0,False,False,0.2,3.5,21306.0,40.0, Not-in-family,False, State-gov,False, Never-married,False, Germany,False,False,True,SVHC,12.0, Adm-clerical,False, White,False,True,False,True,False,173.0,False,True,True,False,46.0,F,1972-08-30
+173,Esther Stevens,"USS Davis
+FPO AE 99029",True, Some-college,False,139.0,1.02,0.0,0.0,False,False,1.6,2.2,45381.0,8.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Adm-clerical,False, White,False,True,False,True,False,136.0,False,True,False,False,24.0,F,1994-02-25
+185,Francine Newman,"17117 Pamela Valleys
+Anthonyland, NH 78773",True, Some-college,False,99.0,1.13,0.0,0.0,False,False,3.3843307086614174,2.4,318822.0,40.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,False,False,True,False,88.0,False,True,False,False,53.0,F,1965-04-24
+187,Fred Smith,"Unit 9703 Box 7021
+DPO AP 15149",True, Bachelors,False,85.0,1.12,1902.0,0.0,False,False,0.46,1.4,162327.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,13.0, Adm-clerical,False, White,False,True,False,True,False,77.0,False,True,False,False,71.0,M,1947-01-21
+188,Gabriela Bell,"2360 Kara Keys Suite 309
+Joyceland, OR 72403",True, Some-college,False,141.0,1.15,0.0,0.0,False,False,1.4,1.7,109517.0,43.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,SVI,10.0, Adm-clerical,False, White,False,True,False,True,False,123.0,False,True,False,False,65.0,F,1953-01-13
+190,Gary Gallman,"36697 Harper Hills Apt. 348
+Johnside, LA 16962",True, 7th-8th,False,89.0,0.99,0.0,0.0,False,False,0.2,2.2,108211.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,4.0, Adm-clerical,False, White,False,True,False,True,False,90.0,False,True,False,False,29.0,M,1989-08-17
+199,Gloria Lepley,"1659 Davis Greens Apt. 910
+West Travisfurt, MI 45117",True, HS-grad,False,96.0,0.86,0.0,0.0,False,False,3.3843307086614174,2.0,26987.0,40.0, Not-in-family,False, Private,False, Separated,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,False,False,True,False,112.0,False,True,False,False,36.0,F,1981-10-27
+209,Hazel Joyce,"534 Chris Crossroad
+Barbarabury, KY 81903",True, Some-college,False,142.0,1.25,0.0,0.0,True,False,0.2,2.5,160981.0,52.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,113.0,False,True,False,False,66.0,F,1952-08-29
+211,Heather Huskey,"Unit 9962 Box 2980
+DPO AP 70391",True, Assoc-voc,False,117.0,1.02,0.0,0.0,False,False,5.1,1.4,143083.0,18.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,11.0, Adm-clerical,False, White,False,True,False,True,False,114.0,False,True,False,False,52.0,F,1966-06-09
+213,Helen Irwin,"601 Jones Spur
+West Edgar, IA 86033",True, HS-grad,False,191.0,1.0,0.0,0.0,False,False,0.015,4.1,412156.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, Mexico,False,False,True,other,9.0, Adm-clerical,False, White,False,True,True,True,False,191.0,False,True,False,False,56.0,F,1962-04-17
+216,Helen Scruggs,"87512 James Fords
+North Amandastad, TN 80363",False, HS-grad,False,113.28148148148148,1.0595275590551179,0.0,0.0,False,False,3.3843307086614174,2.14,94638.0,40.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,False,other,9.713178294573643, Adm-clerical,False, White,False,False,False,False,False,108.91338582677166,True,False,False,False,21.0,F,1997-03-27
+219,Howard Herrera,"367 Foster Plains
+Mckinneytown, ID 53994",True, HS-grad,False,92.0,0.89,0.0,0.0,False,False,0.9,2.6,216129.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,103.0,False,True,False,False,70.0,M,1948-04-26
+230,James Karo,"USNS Mack
+FPO AE 03170",True, Some-college,False,95.0,0.93,0.0,0.0,False,False,1.6,1.2,169324.0,10.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Adm-clerical,False, White,False,True,False,True,False,102.0,False,True,True,False,39.0,M,1979-02-11
+237,Jane Durant,"22194 Padilla Valley
+Burgesstown, MN 71991",False, Some-college,False,94.0,1.0595275590551179,0.0,0.0,False,False,0.89,2.0,117789.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,108.91338582677166,False,False,False,False,43.0,F,1975-10-14
+239,Janice Zediker,"197 Jones Ville
+Maldonadofort, AZ 92660",True, Assoc-acdm,False,103.0,0.93,0.0,4101.0,False,True,0.85,2.0,191917.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,12.0, Adm-clerical,False, White,False,True,False,True,False,111.0,False,True,False,False,53.0,F,1965-04-08
+244,Jeanette Wing,"3076 Vanessa Grove Suite 712
+Angelton, DC 89688",True, Masters,False,101.0,0.99,0.0,0.0,False,False,2.2,1.9,205562.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,14.0, Adm-clerical,False, Black,False,True,False,True,False,102.0,False,True,False,False,65.0,F,1952-11-01
+253,Jessie Roberts,"086 Moore Island Apt. 753
+Lake Josephton, MD 40533",True, Some-college,False,120.0,1.06,0.0,0.0,False,False,0.98,2.5,541282.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Adm-clerical,False, White,False,True,False,True,False,113.0,False,True,True,False,46.0,M,1971-11-29
+254,Joanne Elder,"06742 Ryan Bridge Apt. 664
+Laurenhaven, SD 86166",True, HS-grad,False,99.0,1.14,0.0,0.0,False,False,3.5,1.7,188612.0,40.0, Not-in-family,False, Private,True, Widowed,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,True,True,False,87.0,False,True,False,False,43.0,F,1975-07-28
+276,Judy Lynn,"2731 Ferguson Inlet Suite 561
+New Evanland, MT 10808",True, HS-grad,False,139.0,1.06,0.0,0.0,False,False,0.15,2.3,496526.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,True,True,False,131.0,False,True,False,False,34.0,F,1984-05-15
+279,Karen Jones,"215 Thompson Pine
+Robertsonton, ID 93568",True, HS-grad,False,121.0,1.29,0.0,0.0,False,False,2.3,2.5,178976.0,40.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Adm-clerical,False, White,False,True,False,True,False,94.0,False,True,False,False,34.0,F,1984-06-08
+281,Karla Campbell,"19388 Lisa Port
+Sherriport, VT 88113",True, Bachelors,False,109.0,1.01,0.0,0.0,False,False,0.5,1.9,212143.0,20.0, Wife,False, State-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Adm-clerical,False, White,False,True,False,True,False,108.0,False,True,False,False,67.0,F,1951-04-02
+284,Katherine Iverson,"72361 George Haven Apt. 405
+East Sarah, WY 09469",True, Some-college,False,68.0,1.15,0.0,0.0,False,False,10.3,2.0,299080.0,40.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Adm-clerical,False, Black,False,True,False,True,False,59.0,False,True,False,True,33.0,F,1984-10-29
+286,Kathryn Medina,"25349 Carroll Springs
+Tinastad, NE 11758",False, Some-college,False,93.0,1.0595275590551179,0.0,0.0,False,False,0.1,1.8,302626.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVHC,10.0, Adm-clerical,False, White,False,True,False,True,False,108.91338582677166,False,False,True,False,31.0,F,1987-01-12
+291,Kay Moore,"7493 Spencer Ridges Apt. 578
+New William, AK 11193",True, Bachelors,False,135.0,0.66,0.0,0.0,True,False,0.9,2.14,225330.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,13.0, Adm-clerical,False, White,False,True,False,True,False,206.0,False,True,False,False,42.0,F,1976-10-06
+294,Kelly Pounds,"964 Ingram Hills
+Lake Darryl, SD 01263",True, 7th-8th,False,70.0,0.85,0.0,0.0,True,False,1.5,2.2,116961.0,20.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,other,4.0, Adm-clerical,False, White,False,True,False,True,False,82.0,False,True,False,False,75.0,F,1943-10-04
+296,Kenneth Lopez,"32846 Moreno Highway
+Lynchmouth, CA 56829",True, Bachelors,False,99.0,0.86,0.0,0.0,False,False,0.3,2.2,35595.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,13.0, Adm-clerical,False, White,False,True,False,True,False,115.0,False,True,False,False,68.0,M,1950-01-21
+301,Kimberly Duncan,"PSC 4856, Box 6330
+APO AA 62233",True, 9th,False,121.0,1.01,0.0,0.0,False,False,0.8,1.9,161386.0,50.0, Wife,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,5.0, Adm-clerical,False, White,False,True,False,True,False,119.0,True,True,False,False,73.0,F,1945-10-25
+310,Laura Chavez,"36064 Nathan Isle Apt. 614
+Melissaland, SC 65948",True, Bachelors,False,103.0,1.03,0.0,0.0,False,False,1.7,2.1,222789.0,6.0, Not-in-family,False, Private,False, Widowed,False, United-States,False,False,True,other,13.0, Adm-clerical,False, White,False,True,False,True,False,100.0,False,True,False,False,52.0,F,1966-06-03
+313,Lavonne Wade,"98458 Jose Garden Apt. 503
+South Rodneyhaven, NJ 04100",False, Some-college,False,113.28148148148148,1.0595275590551179,0.0,0.0,False,False,3.3843307086614174,2.14,128676.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Adm-clerical,False, Black,False,False,False,False,False,108.91338582677166,False,False,False,False,49.0,F,1969-08-23
+315,Leila Gray,"0096 Martin Flats Apt. 124
+East Steveville, NC 41011",True, HS-grad,False,142.0,1.13,0.0,0.0,False,False,1.5,1.8,161691.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,125.0,False,True,False,False,69.0,F,1948-12-06
+317,Lilliam Simpson,"9165 Mark Mountain Suite 991
+Murphyside, MA 20124",True, Some-college,False,187.0,1.74,0.0,0.0,False,False,0.2,3.2,148509.0,30.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,STMW,10.0, Adm-clerical,False, White,False,True,False,True,False,107.0,False,True,False,False,36.0,F,1982-08-15
+320,Linda Stults,"667 Paula Glen
+Coxhaven, DC 27472",True, 10th,False,77.0,1.04,0.0,0.0,False,False,1.7,2.3,158762.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,6.0, Adm-clerical,False, White,False,True,False,True,False,74.0,False,True,False,False,36.0,F,1981-11-03
+322,Lisa Maguire,"90754 Kayla Skyway Suite 430
+Kaitlynfurt, MI 44229",True, Some-college,False,117.0,1.09,0.0,0.0,False,False,1.6,2.1,25249.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Adm-clerical,False, White,False,True,False,True,False,107.0,False,True,False,False,53.0,F,1965-06-26
+326,Lois Gonzalez,"09789 Carlos Roads Suite 605
+Lake Christopherhaven, SC 68696",True, Bachelors,False,107.0,1.05,0.0,0.0,False,False,0.25,1.6,96219.0,45.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,13.0, Adm-clerical,False, White,False,True,False,True,False,102.0,False,True,False,False,34.0,F,1984-07-16
+333,Lucinda White,"48001 Hood Villages Suite 518
+Brownshire, MO 42346",True, HS-grad,False,95.0,0.96,0.0,0.0,False,False,1.3,1.8,352640.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,True,99.0,False,True,False,False,21.0,F,1997-01-20
+336,Lyndia Yoshino,"0999 Christina Trail Apt. 889
+Port Margaretberg, LA 40294",True, Assoc-acdm,False,93.0,0.86,0.0,0.0,False,False,0.99,1.3,300829.0,42.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,12.0, Adm-clerical,False, White,False,True,False,True,False,108.0,True,True,False,False,55.0,F,1963-01-21
+338,Mable Leischner,"847 Stephen Cliffs Apt. 318
+East Maryfort, KS 15063",True, Some-college,False,80.0,1.02,0.0,0.0,False,False,0.09,1.3,47247.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,79.0,False,True,False,False,59.0,F,1958-12-11
+345,Maria Cullen,"03673 Darrell Harbor Suite 403
+East Bonniefort, CA 50416",True, Some-college,False,172.0,1.8,0.0,0.0,True,False,8.3,3.1,110998.0,30.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, Asian-Pac-Islander,True,True,False,True,False,96.0,False,True,False,False,34.0,F,1984-10-06
+349,Maricela Mcaninch,"70675 Simmons Corners
+Danielport, WI 53094",True, 10th,False,101.0,0.9,0.0,0.0,False,False,2.4,2.14,334585.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,6.0, Adm-clerical,False, White,False,True,False,True,False,113.0,False,True,False,False,70.0,F,1947-11-12
+351,Marie Pale,"8891 Jacqueline Rapids Apt. 224
+East John, AR 19977",True, Some-college,False,151.0,1.97,0.0,0.0,False,False,0.3,2.14,394820.0,20.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,False,other,10.0, Adm-clerical,False, White,True,True,False,True,False,76.0,False,True,False,False,26.0,F,1992-05-04
+357,Marla Waid,"38348 Stewart Drive Apt. 071
+Herreramouth, ID 00797",True, Some-college,False,89.0,1.14,0.0,7298.0,False,False,2.1,2.0,93717.0,45.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,79.0,False,True,False,False,39.0,F,1979-09-17
+363,Mary Campbell,"6824 William Harbor Apt. 228
+Dicksonview, MT 17640",True, Some-college,False,75.0,1.03,0.0,0.0,True,False,3.3843307086614174,1.7,204640.0,40.0, Unmarried,False, Private,False, Widowed,False, United-States,False,True,True,other,10.0, Adm-clerical,False, Black,False,False,False,True,False,72.0,False,True,False,False,60.0,F,1958-07-21
+370,Mary Leflore,"309 Harper Plaza
+New Janiceberg, NJ 26087",True, HS_grad,False,192.0,1.44,1602.0,0.0,True,False,0.81,2.14,171964.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,9.0, Adm-clerical,False, White,False,True,False,True,False,134.0,False,True,False,False,60.0,F,1958-02-11
+373,Mary Seward,"56724 Griffith Stream
+Port Tinastad, NV 27220",True, Some-college,False,110.0,1.01,0.0,0.0,False,False,3.3843307086614174,2.3,80165.0,30.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.713178294573643, Adm-clerical,False, White,False,False,True,True,False,109.0,False,True,False,False,33.0,F,1985-05-04
+384,Melba Johnson,"053 Salinas Lane Apt. 616
+Lake Melissaville, NV 90609",True, HS-grad,False,113.0,0.91,0.0,0.0,False,True,0.1,2.14,117700.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,9.0, Adm-clerical,False, White,False,True,False,True,False,125.0,False,True,False,False,64.0,F,1953-11-25
+385,Melinda Smith,"657 Parker Parks
+South Christinestad, WV 63884",True, HS-grad,False,151.0,1.05,0.0,0.0,True,False,0.6,2.0,198183.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,144.0,False,True,False,False,58.0,F,1960-03-10
+394,Michelle Bentley,"7339 Isaac Cove
+West Sheila, NJ 73943",True, Bachelors,False,88.0,1.05,0.0,0.0,False,False,2.3,2.14,128487.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,13.0, Adm-clerical,False, White,False,True,False,True,False,83.0,False,True,False,False,44.0,F,1974-08-02
+395,Michelle Ekmark,"8802 Charles Squares Suite 681
+Smithton, OK 90076",True, Bachelors,False,164.0,1.09,0.0,0.0,True,False,0.065,2.2,132572.0,32.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Adm-clerical,False, Black,False,True,False,True,False,151.0,False,True,False,False,51.0,F,1967-05-04
+396,Michelle Lockhart,"24912 Morse Trail
+New Sherryberg, NV 47212",True, Some-college,False,13.0,1.19,0.0,0.0,False,False,31.0,0.8,65225.0,30.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,11.0,False,True,False,False,42.0,F,1976-03-07
+400,Morgan Cook,"73418 Phillips Mall
+Leehaven, KS 20814",True, HS-grad,False,167.0,0.88,0.0,0.0,False,False,1.7,1.8,103925.0,68.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,189.0,False,True,False,False,70.0,F,1947-11-21
+402,Muriel Turkus,"70022 Johnson Cliffs
+New Conniemouth, CA 16100",False, Some-college,False,75.0,1.0595275590551179,0.0,0.0,False,False,16.0,1.7,118230.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,108.91338582677166,False,False,False,True,33.0,F,1984-10-29
+405,Myrtle Goodwin,"99534 Green Pine
+East Teresa, IA 84920",True, HS_grad,False,94.0,1.0,0.0,0.0,False,False,2.2,1.7,214061.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.713178294573643, Adm-clerical,False, White,False,True,False,True,False,94.0,False,True,False,False,33.0,F,1984-12-09
+410,Nathan Pauling,"0267 Johnson Drives Suite 684
+Phamville, SD 88257",True, Some-college,False,89.0,0.91,0.0,0.0,False,False,5.7,1.6,167428.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,98.0,False,True,False,False,90.0,M,1927-12-27
+418,Patricia Pardue,"895 Danielle Club Apt. 006
+New Christinaborough, IL 46765",True, HS_grad,False,133.0,0.84,0.0,0.0,False,False,0.08,2.14,222584.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,9.0, Adm-clerical,False, Black,False,True,False,True,False,158.0,False,True,False,False,72.0,F,1946-08-25
+420,Patricia Schell,"0261 Baxter Land Apt. 340
+New Donnamouth, IN 98110",True, Some-college,False,85.0,0.87,0.0,0.0,False,False,0.97,1.3,112780.0,30.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,98.0,True,True,False,False,68.0,F,1950-06-26
+427,Peggy Mack,"2940 Krista Street
+Alisonland, MN 19764",True, 7th_8th,False,106.0,1.28,0.0,0.0,False,False,1.4,2.14,218948.0,32.0, Not-in-family,False, Private,False, Never-married,False, Mexico,False,False,False,other,4.0, Adm-clerical,False, White,False,True,False,True,False,84.0,False,True,False,False,26.0,F,1992-08-22
+431,Rachell Collier,"39857 David Greens Apt. 131
+Marybury, MI 47005",True, HS-grad,False,113.0,0.91,0.0,0.0,True,False,0.47,2.3,170130.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,124.0,False,True,False,True,65.0,F,1953-05-18
+434,Raquel Rooks,"PSC 1511, Box 3844
+APO AP 84871",True, Some_college,False,97.0,0.88,0.0,0.0,True,False,6.0,1.5,282964.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,110.0,False,True,False,False,61.0,F,1957-07-03
+442,Renae Davis,"9189 Johnson Manor Apt. 857
+West Alyssa, SD 50581",True, Bachelors,False,117.0,0.98,0.0,0.0,True,False,0.1,2.14,210781.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,13.0, Adm-clerical,False, White,False,True,False,True,False,120.0,False,True,False,False,63.0,F,1955-03-30
+446,Richard Bowlin,"495 Cannon Island
+New Johnport, GA 69209",True, 12th,False,14.0,1.11,0.0,0.0,False,False,60.0,0.7,291509.0,28.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,8.0, Adm-clerical,False, White,False,True,False,True,False,13.0,False,True,False,False,55.0,M,1963-08-23
+458,Roger Summers,"90992 Nichole Ramp Apt. 881
+New Tanyahaven, NE 83822",True, Bachelors,False,73.0,0.97,0.0,0.0,False,False,1.0,1.6,125833.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, Vietnam,False,False,True,SVI,9.713178294573643, Adm-clerical,False, Asian-Pac-Islander,False,True,False,True,False,75.0,True,True,False,False,57.0,M,1961-04-07
+463,Rosa Mcclellan,"219 Claudia Radial Apt. 741
+Port Rhonda, GA 48485",True, HS-grad,False,144.0,1.29,0.0,0.0,False,False,6.8,2.14,355686.0,10.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,9.0, Adm-clerical,False, White,False,True,False,True,False,111.0,False,True,False,False,79.0,F,1939-08-08
+467,Rose Koehn,"374 Juarez Loop
+Lake Thomas, NE 73923",True, HS-grad,False,93.0,0.91,0.0,2885.0,False,False,1.4,2.0,216941.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, White,False,True,False,True,False,102.0,False,True,False,False,27.0,F,1990-11-15
+469,Rosie Anderson,"181 Lopez Forges
+East Michael, PA 95179",True, HS-grad,False,111.0,1.04,0.0,0.0,False,False,1.3,0.9,44364.0,36.0, Own-child,False, Federal-gov,False, Never-married,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, Black,False,True,False,True,False,107.0,False,True,False,False,85.0,F,1933-01-08
+472,Ruby Nadeau,"86807 Lewis Cape Suite 603
+Linland, WA 87265",True, Some-college,False,139.0,1.34,0.0,0.0,True,False,0.025,3.7,204756.0,20.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,True,True,True,True,False,104.0,False,True,False,False,32.0,F,1985-10-25
+481,Samantha Scavone,"07262 Haney Locks
+Port Thomaschester, MA 79934",False, HS-grad,False,164.0,1.0595275590551179,0.0,0.0,True,False,0.97,2.0,92061.0,8.0, Other-relative,False, Private,False, Widowed,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,108.91338582677166,False,False,False,False,72.0,F,1946-08-08
+489,Sharon Birchler,"4947 Taylor Ville Suite 311
+Sweeneyborough, NM 17125",True, Some-college,False,37.0,0.72,0.0,0.0,True,False,9.7,0.5,233923.0,24.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Adm-clerical,False, White,False,True,False,True,False,51.0,False,True,False,False,46.0,F,1972-02-02
+490,Sharon Hernandez,"08480 Samantha Burg Apt. 336
+Lake Dylanchester, GA 32697",True, Assoc-voc,False,138.0,1.15,0.0,4101.0,False,True,0.2,2.5,143582.0,35.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,11.0, Adm-clerical,False, Other,False,True,False,True,False,119.0,True,True,False,False,56.0,F,1961-11-01
+493,Sheila Barbre,"22928 Cynthia Views Apt. 012
+South Robertmouth, MT 20890",True, HS_grad,False,108.0,0.93,0.0,0.0,False,False,2.8,1.9,142030.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,9.713178294573643, Adm-clerical,False, White,False,True,False,True,False,116.0,False,True,False,False,79.0,F,1939-10-24
+500,Shirley Seneker,"93492 Anthony Drive Suite 190
+East Troyton, NC 84242",True, HS-grad,False,116.0,1.08,0.0,0.0,False,True,1.5,2.3,185452.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,107.0,False,True,False,False,64.0,F,1954-01-12
+502,Silvia Ekmark,"1627 Gonzales Village
+Williamsfort, NM 14758",True, Some-college,True,108.0,1.12,0.0,0.0,False,False,4.4,2.6,122272.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,96.0,False,True,True,False,37.0,F,1980-12-28
+504,Stacie Crum,"4747 Wu Islands
+South Michaelberg, ME 66159",True, Some-college,False,130.0,1.11,0.0,0.0,False,False,3.9,2.1,192984.0,40.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,SVHD,10.0, Adm-clerical,False, White,False,True,True,True,False,116.0,False,True,False,False,73.0,F,1945-07-02
+506,Stacy Bellavance,"6550 Young Corners Suite 282
+Ashleyshire, NC 74704",True, Some-college,False,92.0,0.98,0.0,0.0,False,False,1.2,1.7,119234.0,15.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,94.0,False,True,False,False,44.0,F,1974-10-17
+507,Stacy Martinson,"1788 Joshua Squares
+North Austin, PA 44665",True, HS_grad,False,145.0,0.88,0.0,0.0,False,False,0.79,1.5,362787.0,35.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Adm-clerical,False, Black,False,True,False,True,False,165.0,False,True,False,False,87.0,F,1931-02-06
+509,Stephanie Oconnell,"84089 Gray Course
+South Michelle, NV 28515",True, Assoc-acdm,False,98.0,1.01,0.0,0.0,False,False,3.8,2.0,269284.0,40.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,SVHC,12.0, Adm-clerical,False, White,False,True,False,True,False,97.0,False,True,False,False,35.0,F,1983-01-06
+513,Stephen Zumwalt,"88827 Christopher Lake Apt. 813
+East Alexandra, MD 11688",False, Bachelors,False,113.28148148148148,1.0595275590551179,0.0,0.0,True,False,3.3843307086614174,2.14,241962.0,40.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,False,other,13.0, Adm-clerical,False, White,False,False,False,False,False,108.91338582677166,False,False,False,False,31.0,M,1987-07-12
+528,Thomas Anthony,"69048 Emily Estate Suite 764
+Rebeccaburgh, NY 34953",True, Bachelors,False,132.0,0.94,0.0,0.0,False,False,1.4,2.3,79586.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,13.0, Adm-clerical,False, Asian-Pac-Islander,False,True,False,True,False,140.0,False,True,True,False,27.0,M,1990-12-13
+534,Tina Sholar,"72886 Daniel Hill
+Rojashaven, TX 89261",False, Bachelors,False,98.0,1.0595275590551179,0.0,0.0,False,False,3.3843307086614174,2.14,315291.0,40.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,False,other,13.0, Adm-clerical,False, Black,False,False,False,True,False,108.91338582677166,False,False,False,False,72.0,F,1946-02-04
+536,Tom Lee,"Unit 1180 Box 6841
+DPO AE 11890",True, HS-grad,False,86.0,0.81,0.0,0.0,False,False,0.5,2.1,499233.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,107.0,False,True,False,False,59.0,M,1959-10-24
+537,Tonja Takaki,"11638 Donna Heights
+New Alexandriaview, CT 53457",True, Bachelors,False,72.0,0.9,0.0,0.0,False,False,2.4,1.3,335376.0,30.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Adm-clerical,False, White,False,True,False,True,False,80.0,False,True,False,False,23.0,F,1995-06-01
+544,Vicki Barr,"380 Cynthia Villages
+New Bernardfurt, NJ 77306",True, Assoc-acdm,False,119.0,1.09,0.0,3325.0,False,False,2.5,1.6,188900.0,35.0, Not-in-family,False, State-gov,False, Never-married,False, United-States,False,False,True,other,12.0, Adm-clerical,False, White,False,True,False,True,False,110.0,False,True,False,False,44.0,F,1974-06-21
+546,Vincent Reddick,"809 Gonzalez Manors Suite 864
+Amandatown, OR 79282",True, HS-grad,False,97.0,0.78,0.0,0.0,False,False,2.7,1.6,165209.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.713178294573643, Adm-clerical,False, White,False,True,False,True,False,125.0,False,True,False,False,73.0,M,1944-11-22
+547,Virginia Bowdle,"06835 Jeffrey Stravenue
+Johnborough, NV 71153",True, 11th,False,169.0,1.21,0.0,0.0,False,False,0.05,3.1,177955.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, Mexico,False,False,True,STMW,7.0, Adm-clerical,False, White,False,True,False,True,False,140.0,False,True,False,False,64.0,F,1954-10-10
+550,Virginia Wexler,"78180 Chad Shoal Suite 448
+Lake Michael, NE 98148",True, HS-grad,False,125.0,0.96,0.0,0.0,True,False,0.25,2.9,193626.0,53.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Adm-clerical,False, White,False,True,False,True,False,130.0,False,True,False,False,39.0,F,1979-04-22
+559,Willie Houghtelling,"031 April Streets Suite 895
+Sandersstad, LA 70778",False, Some-college,False,96.0,1.0595275590551179,0.0,0.0,False,False,2.1,1.7,278155.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Adm-clerical,False, White,False,True,False,True,False,108.91338582677166,False,False,False,False,62.0,M,1956-08-16
+560,Willie Stevens,"7761 Kyle Land
+South Jordanchester, KY 00543",True, HS-grad,False,151.0,1.05,0.0,20051.0,True,False,3.3843307086614174,2.14,132832.0,40.0, Wife,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,False,other,9.0, Adm-clerical,False, White,False,False,False,True,False,144.0,False,True,False,False,22.0,F,1996-10-05
+561,Wilma Pena,"USNS Barrera
+FPO AA 94853",True, Some-college,False,105.0,0.8,0.0,0.0,False,False,2.8,1.6,366929.0,35.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Adm-clerical,False, White,False,True,False,True,False,131.0,False,True,False,False,50.0,F,1967-12-02
+5,Agustina Demar,"4195 Timothy Loop Suite 598
+Hillborough, DE 37713",True, Some-college,False,108.0,1.14,0.0,0.0,False,False,6.2,2.138805970149254,90046.0,40.0, Not-in-family,False, State-gov,False, Never-married,False, Canada,False,False,False,other,10.0, Other-service,False, White,False,True,False,True,False,94.0,False,True,False,True,16.0,F,2002-01-22
+8,Alfredo Abels,"866 Lane Creek Suite 738
+Jefferyland, NV 09093",True, Assoc-voc,False,102.0,0.97,0.0,0.0,False,False,1.3,2.138805970149254,91819.0,30.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,11.0, Other-service,False, White,False,True,False,True,False,105.0,False,True,False,False,15.0,M,2003-04-08
+15,Amanda Moss,"2197 Collins Mountains Suite 515
+Brewerton, NH 21701",True, Assoc-acdm,False,41.0,0.6,0.0,0.0,False,False,2.7,0.7,29662.0,25.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,12.0, Other-service,False, White,False,True,False,True,False,69.0,False,True,False,False,63.0,F,1955-09-17
+25,Angelica Dowd,"82543 Jonathan Rapids
+Wernerstad, ME 29954",True, HS-grad,False,139.0,0.86,0.0,0.0,False,False,4.5,2.0,166636.0,35.0, Other-relative,False, Private,False, Divorced,False, United-States,False,False,True,SVHC,9.0, Other-service,False, Black,False,True,False,True,False,161.0,False,True,True,False,30.0,F,1988-07-28
+27,Ann Hernandez,"PSC 7317, Box 6511
+APO AE 68339",True, HS-grad,False,91.0,1.09,0.0,0.0,False,False,4.5,1.7,349898.0,44.0, Not-in-family,False, Private,False, Widowed,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,True,True,False,84.0,False,True,False,False,55.0,F,1963-05-26
+29,Anna Dougherty,"846 Michael Well Apt. 552
+Smithport, MA 60003",True, 11th,False,125.0,1.14,0.0,0.0,False,False,1.3,2.5,100067.0,35.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,7.0, Other-service,False, Black,False,True,False,True,False,109.0,False,True,False,False,41.0,F,1977-05-26
+33,Annette Thomas,"545 Veronica Crossroad
+Hortonville, ID 75060",True, HS-grad,False,66.0,1.09,0.0,0.0,False,False,7.3,2.4,182792.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,61.0,False,True,False,True,85.0,F,1933-06-27
+34,April Brown,"9353 Christine Spurs Apt. 937
+Barkershire, HI 19138",True, HS-grad,False,164.0,0.92,0.0,0.0,True,False,0.03,2.0,33397.0,35.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,178.0,False,True,False,False,59.0,F,1958-12-07
+36,Ashley Filion,"PSC 2085, Box 9304
+APO AA 61151",False, 11th,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,4.150197368421052,2.138805970149254,45857.0,36.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,7.0, Other-service,False, White,False,False,False,False,False,110.68,False,False,False,False,75.0,F,1943-06-05
+43,Bernadette Depaolo,"09722 Elizabeth Track Apt. 483
+Moorestad, MD 89835",True, Bachelors,False,112.0,1.15,0.0,0.0,False,False,2.6,2.138805970149254,96219.0,15.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,13.0, Other-service,False, White,False,True,False,True,False,97.0,False,True,False,False,27.0,F,1991-10-14
+51,Betty Robinson,"79109 Alexander Key
+West Ashley, GA 58860",True, Bachelors,False,152.0,1.18,0.0,0.0,False,False,1.8,2.0,141272.0,30.0, Own-child,True, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Other-service,False, Black,False,True,False,True,False,129.0,False,True,False,False,63.0,F,1955-07-23
+60,Bonnie Lay,"5630 Denise Knolls
+Chloeville, DE 16762",False, Some-college,False,110.48717948717949,1.0065333333333333,0.0,0.0,True,False,4.150197368421052,2.138805970149254,435022.0,50.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,10.0, Other-service,False, White,False,False,True,False,False,110.68,False,False,False,False,41.0,F,1976-11-11
+67,Brian Roman,"27926 Vaughn Curve
+Murphyport, CO 85853",True, Some-college,False,143.0,0.9,0.0,0.0,False,False,0.02,1.6,227359.0,42.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Other-service,False, White,False,True,False,True,False,159.0,False,True,False,False,79.0,M,1939-05-08
+69,Briana Oneal,"972 Raymond Burgs Suite 533
+South Michael, IL 38150",True, HS-grad,False,93.0,0.73,0.0,0.0,False,False,2.3,1.1,146980.0,65.0, Unmarried,False, Private,False, Married-spouse-absent,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,127.0,False,True,False,False,42.0,F,1976-08-26
+74,Carl Dellosso,"227 Turner Throughway Suite 285
+Tiffanyton, DC 50113",True, Some_college,False,88.0,0.89,1602.0,0.0,False,False,0.4,1.7,215395.0,10.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,8.855421686746988, Other-service,False, White,False,True,False,True,False,99.0,False,True,False,False,16.0,M,2002-04-27
+83,Catherine Erickson,"166 Snow Throughway Apt. 390
+Port Brandon, CA 88414",True, HS-grad,False,71.0,0.89,0.0,0.0,False,False,0.015,2.0,158319.0,24.0, Not-in-family,False, Self-emp-not-inc,False, Widowed,False, United-States,False,False,True,SVI,9.0, Other-service,False, White,False,True,False,True,False,80.0,False,True,False,False,30.0,F,1988-03-20
+88,Cecilia Rivers,"0308 Meghan Lane Suite 704
+Avilaside, VA 19547",True, 11th,False,122.0,1.17,0.0,0.0,False,False,0.43,2.2,340599.0,40.0, Unmarried,True, Private,False, Separated,False, United-States,False,False,True,SVI,7.0, Other-service,False, Black,False,True,False,True,False,104.0,False,True,False,False,62.0,F,1956-10-13
+104,Christina Maldonado,"USNS Campos
+FPO AA 64943",False, Some-college,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,4.150197368421052,2.138805970149254,210053.0,28.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Other-service,False, White,False,False,False,False,True,110.68,False,False,False,False,11.0,F,2007-02-05
+115,Connie Alley,"6230 Tucker Park
+Joseview, HI 48410",True, HS-grad,False,120.0,0.96,0.0,0.0,False,False,0.03,3.3,37109.0,60.0, Wife,False, Private,True, Married-civ-spouse,False, Philippines,False,False,True,other,9.0, Other-service,False, Asian-Pac-Islander,False,True,False,True,False,125.0,False,True,False,False,63.0,F,1954-11-22
+125,Daniel Horner,"679 Mendoza Plaza
+Josephfurt, WI 25570",True, HS-grad,False,104.0,1.01,0.0,0.0,True,False,3.3,2.7,120475.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,103.0,False,True,False,False,34.0,M,1983-11-07
+129,Dawn Herrera,"326 Thomas Loop Apt. 419
+Dawsonville, MT 12341",False, HS-grad,False,110.48717948717949,1.0065333333333333,0.0,991.0,False,False,0.27,2.138805970149254,203313.0,18.0, Not-in-family,False, Private,False, Widowed,False, United-States,False,False,False,other,9.0, Other-service,False, White,False,True,False,False,False,110.68,False,False,False,False,77.0,F,1941-03-27
+135,Dennis Neese,"PSC 5917, Box 5117
+APO AA 75666",True, Some-college,False,112.0,1.06,0.0,0.0,False,False,2.9,3.1,322144.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Other-service,False, White,False,True,False,True,False,106.0,False,True,False,False,14.0,M,2004-07-26
+149,Douglas Dean,"22266 Gross Falls
+Ariasstad, UT 75662",True, Some_college,False,132.0,1.16,0.0,0.0,False,False,2.2,2.3,194850.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, Mexico,False,False,True,other,10.0, Other-service,False, Other,False,True,False,True,False,114.0,False,True,False,False,31.0,M,1987-07-20
+164,Elizabeth Severin,"2668 Stephanie Lakes Apt. 101
+East Sherriborough, PA 92036",False, Some_college,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,4.150197368421052,2.138805970149254,176486.0,25.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Other-service,False, White,False,False,False,False,False,110.68,False,False,False,False,65.0,F,1953-10-11
+165,Elizabeth Waters,"85280 Sarah Islands
+Lake Victormouth, NV 53776",True, HS-grad,False,70.0,0.99,0.0,0.0,False,False,1.4,2.3,117789.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Other-service,False, White,False,True,False,True,False,71.0,False,True,False,False,57.0,F,1960-12-12
+171,Emily Miller,"18875 Kelly Unions Apt. 435
+East Danatown, KY 85744",True, 9th,False,111.0,0.83,0.0,0.0,False,False,0.3,2.3,131461.0,24.0, Wife,False, Private,True, Married-civ-spouse,False, Haiti,False,False,True,other,5.0, Other-service,False, Black,False,True,False,True,False,134.0,False,True,False,False,41.0,F,1977-06-10
+180,Florentina Yarbrough,"0514 Danielle Ramp
+Donaldsonbury, AR 07669",True, 12th,False,126.0,0.85,0.0,0.0,False,False,1.3,0.9,301568.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,8.0, Other-service,False, White,False,True,False,True,False,148.0,False,True,False,False,71.0,F,1947-02-02
+181,Frances Barry,"82391 Tran Pass
+Port Michael, CO 65179",True, Some-college,False,99.0,0.72,0.0,4650.0,False,False,2.6,0.2,242912.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Other-service,False, White,False,True,False,True,False,138.0,False,True,False,False,67.0,F,1951-02-02
+191,George Bauer,"280 Drake Plains
+South Tiffany, CT 44249",True, 10th,False,122.0,1.12,0.0,0.0,False,False,1.1,2.4,50879.0,6.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,6.0, Other-service,False, White,False,True,False,True,False,109.0,False,True,True,False,71.0,F,1947-10-04
+192,George Stringham,"39033 Peterson Ways Suite 476
+Justinmouth, AL 06027",True, 9th,False,110.0,1.1,0.0,0.0,False,False,2.7,2.8,211870.0,6.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,5.0, Other-service,False, White,False,True,False,True,False,100.0,False,True,False,False,13.0,M,2005-05-22
+201,Gregory Oldfield,"07548 Bailey Turnpike
+New Christopher, WI 74329",True, HS-grad,False,113.0,0.99,0.0,0.0,False,False,1.9,2.138805970149254,143766.0,30.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,9.0, Other-service,False, White,False,True,False,True,False,114.0,False,True,False,False,13.0,M,2005-03-21
+212,Heather Kilgore,"81438 Castro Fork
+West Virginia, AK 47653",True, 1st-4th,False,93.0,0.87,0.0,0.0,False,False,4.5,1.5,70562.0,48.0, Unmarried,False, Private,False, Never-married,False, El-Salvador,False,False,True,SVI,2.0, Other-service,False, White,False,True,False,True,False,107.0,False,True,False,False,63.0,F,1954-11-14
+221,Huong Groves,"735 Yolanda Forges Suite 853
+West Kenneth, FL 57188",True, Some-college,False,91.0,0.9,0.0,0.0,False,False,3.5,1.8,258430.0,19.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Other-service,False, White,False,True,False,True,False,101.0,False,True,False,False,32.0,F,1986-03-14
+227,James Butterfield,"440 Archer Summit Apt. 820
+South Adam, ID 20802",True, Some-college,False,118.0,1.1,0.0,0.0,False,False,1.8,1.7,271714.0,30.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Other-service,False, White,False,True,False,True,False,107.0,False,True,False,False,35.0,F,1983-08-24
+232,James Melton,"9034 Kelli Neck Apt. 960
+Sarahberg, SD 16946",True, HS-grad,False,86.0,0.82,0.0,0.0,False,False,0.5,1.8,201292.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,9.0, Other-service,False, White,False,True,False,True,False,105.0,False,True,False,False,49.0,M,1969-07-17
+245,Jena Simpson,"628 Young Isle Apt. 726
+North Chad, VA 24968",True, 10th,False,148.0,1.42,0.0,0.0,False,False,2.3,3.6,156000.0,20.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,other,8.855421686746988, Other-service,False, Black,False,True,True,True,False,104.0,False,True,False,False,22.0,F,1996-06-19
+249,Jennifer Schellhase,"15171 Kristopher Ford
+Michelleville, CO 53289",True, HS-grad,False,177.0,1.51,0.0,0.0,True,False,1.2,2.3,136218.0,15.0, Unmarried,False, Self-emp-inc,False, Widowed,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,117.0,False,True,False,False,64.0,F,1954-02-20
+256,Joel Soffer,"05080 Joseph Oval Suite 605
+East Anthonyshire, NE 26988",True, Some-college,False,109.0,0.92,0.0,0.0,False,False,0.77,1.8,167617.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Other-service,False, White,False,True,False,True,False,118.0,False,True,False,False,78.0,M,1940-05-08
+259,John Walker,"01402 Wilson Ramp
+Lake Amberborough, IL 81663",True, HS-grad,False,116.0,0.9,0.0,0.0,False,False,4.150197368421052,2.138805970149254,118161.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,True,False,other,9.0, Other-service,False, White,False,False,False,True,False,128.0,False,True,False,False,37.0,M,1981-07-17
+260,Johnathan White,"350 Nguyen Row
+Martinland, ME 75219",True, Some-college,False,70.0,0.74,0.0,0.0,False,False,1.5,2.1,163189.0,40.0, Other-relative,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Other-service,False, White,False,True,False,True,False,94.0,False,True,False,True,74.0,M,1944-03-12
+267,Joseph Greenfeld,"30611 Reyes Gateway Apt. 293
+Amystad, AL 23774",True, Some-college,False,137.0,1.19,0.0,0.0,False,False,1.2,2.7,145308.0,40.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,10.0, Other-service,False, White,False,True,False,True,False,115.0,False,True,False,False,35.0,M,1983-06-24
+271,Josphine Otani,"12283 Zachary Green
+Liutown, LA 23769",True, HS-grad,False,129.0,1.14,0.0,0.0,False,False,0.22,2.4,122649.0,30.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,113.0,False,True,False,False,69.0,F,1949-02-14
+273,Joyce Pickert,"68943 Michael Vista
+Pittsmouth, GA 13373",True, HS-grad,False,159.0,1.04,0.0,0.0,False,False,0.2,1.9,109997.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,153.0,False,True,False,False,64.0,F,1954-09-29
+275,Juanita Jordan,"PSC 5912, Box 5383
+APO AE 87704",True, HS-grad,False,75.0,0.87,0.0,0.0,False,False,1.8,2.138805970149254,199674.0,40.0, Unmarried,False, Local-gov,False, Never-married,False, United-States,False,False,False,other,9.0, Other-service,False, Black,False,True,False,True,False,86.0,False,True,False,False,25.0,F,1993-06-11
+282,Karla Ramirez,"5469 Chris Ridges Suite 985
+Mitchelltown, PA 78732",True, HS-grad,True,104.0,1.07,0.0,0.0,False,False,7.9,2.2,161226.0,30.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,9.0, Other-service,False, White,False,True,True,True,False,97.0,False,True,False,False,23.0,F,1995-07-19
+289,Kathy Smith,"85951 Richard Valley Suite 669
+East Shelby, CT 82516",True, HS-grad,False,96.0,1.14,0.0,0.0,False,False,0.7,1.3,65706.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,84.0,False,True,False,False,70.0,F,1948-08-04
+290,Katrina Elliott,"158 May Well
+Nicholasport, AZ 71139",True, 12th,False,120.0,1.24,0.0,0.0,False,False,0.9,2.6,89760.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,8.0, Other-service,False, White,False,True,False,True,False,96.0,False,True,False,False,25.0,F,1992-12-09
+292,Kayla Boswell,"025 Casey Motorway Suite 121
+New Cherylport, RI 47016",True, HS-grad,False,75.0,0.88,0.0,0.0,False,False,0.17,1.2,231052.0,35.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,True,SVI,9.0, Other-service,False, Black,False,True,False,True,False,85.0,False,True,False,False,58.0,F,1960-06-06
+316,Lenora Vernon,"907 Chapman Manor
+South Robert, MS 83259",False, 9th,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,4.150197368421052,2.138805970149254,160187.0,16.0, Not-in-family,False, Private,False, Married-spouse-absent,False, Jamaica,False,False,False,other,5.0, Other-service,False, Black,False,False,False,False,False,110.68,False,False,False,False,56.0,F,1962-04-13
+321,Lisa Bauer,"0865 Bowman Fort
+Matthewview, KS 79323",False, HS-grad,False,137.0,1.0065333333333333,0.0,0.0,True,False,0.2,2.4,235733.0,45.0, Not-in-family,False, Private,True, Never-married,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,True,True,False,110.68,False,False,False,False,49.0,F,1969-06-28
+325,Lisa Wirth,"USCGC Lawrence
+FPO AA 76544",True, 7th-8th,False,96.0,0.9,0.0,0.0,False,False,1.0,1.7,247992.0,40.0, Not-in-family,False, State-gov,False, Never-married,False, United-States,False,False,True,SVI,4.0, Other-service,False, Black,False,True,False,True,False,107.0,True,True,False,False,64.0,F,1954-02-12
+329,Loretta Noriega,"0462 Tristan Ridges
+Lake Thomas, SD 19803",True, HS-grad,False,108.0,1.13,0.0,0.0,False,True,0.2,2.5,174754.0,38.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,STMW,9.0, Other-service,False, Black,True,True,False,True,False,96.0,False,True,False,False,21.0,F,1997-01-04
+341,Mandy Sylvester,"957 Marc Station Suite 074
+Olsenfort, MA 99515",True, HS-grad,False,88.0,0.81,0.0,0.0,True,False,0.015,1.9,239098.0,40.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,True,True,False,109.0,False,True,False,False,65.0,F,1953-05-10
+350,Marie Lane,"USNS Hall
+FPO AE 59437",True, HS-grad,False,123.0,1.29,0.0,5455.0,False,False,0.6,3.2,114678.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,9.0, Other-service,False, Black,False,True,False,True,False,96.0,False,True,False,False,30.0,F,1988-07-04
+360,Martha Langham,"22875 Sara Fort
+Robinfurt, SD 99029",True, HS-grad,False,96.0,0.82,0.0,0.0,False,False,2.7,2.8,174355.0,40.0, Not-in-family,False, Private,False, Widowed,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,118.0,False,True,False,False,26.0,F,1992-02-28
+362,Mary Butler,"56922 Robert Views
+Jessicaville, NM 69116",True, HS-grad,False,134.0,0.99,0.0,0.0,False,False,2.0,2.6,312766.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,SVI,9.0, Other-service,False, White,False,True,False,True,False,136.0,False,True,False,False,65.0,F,1953-06-24
+364,Mary Coulter,"31883 Sexton Squares
+East Vanessa, MA 49675",True, 9th,False,86.0,0.99,0.0,0.0,True,False,28.0,2.0,243773.0,20.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,SVI,5.0, Other-service,False, White,False,True,False,True,False,87.0,False,True,False,True,17.0,F,2001-04-14
+376,Mary Vaccaro,"78699 Brian Ranch Apt. 441
+Johnsonmouth, AL 40778",False, HS-grad,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,4.150197368421052,2.138805970149254,155659.0,36.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,8.855421686746988, Other-service,False, White,False,False,False,False,False,110.68,False,False,False,False,22.0,F,1996-03-25
+377,Maryann Williamson,"1037 Conway Shore Suite 100
+North Jamesville, OK 69800",True, 12th,False,96.0,0.83,0.0,0.0,True,False,2.8,1.7,374918.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,8.0, Other-service,False, White,False,True,False,True,False,116.0,False,True,False,False,61.0,F,1956-10-29
+380,Mayra Davenport,"9199 Brian Trafficway
+Alyssafurt, CT 85968",True, Some-college,False,110.0,1.12,0.0,0.0,False,False,0.8,1.3,270043.0,16.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Other-service,False, White,False,True,False,True,False,98.0,False,True,False,False,62.0,F,1956-03-31
+389,Micaela Harrill,"61844 Joshua Route Apt. 425
+South James, DE 66592",False, HS-grad,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,4.150197368421052,2.138805970149254,191571.0,36.0, Own-child,False, Private,False, Separated,False, United-States,False,False,False,other,9.0, Other-service,False, White,False,False,False,False,False,110.68,False,False,False,False,54.0,F,1964-01-24
+391,Michael Green,"990 Jensen Heights
+Danastad, OK 57983",True, HS-grad,False,187.0,0.96,0.0,0.0,False,False,4.150197368421052,4.3,177154.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,False,False,True,False,194.0,False,True,False,False,37.0,M,1981-08-16
+403,Myrna Brosius,"155 Jamie Ports
+Joshuaville, VT 23474",True, Some-college,False,100.0,1.09,0.0,0.0,False,False,4.150197368421052,2.138805970149254,60639.0,37.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Other-service,False, White,False,False,False,True,False,91.0,False,True,False,False,14.0,F,2004-05-17
+404,Myrna Chapa,"97495 Malone Fields Suite 199
+Jacobsfurt, NM 62998",True, Some-college,False,88.0,0.83,0.0,0.0,False,False,0.48,1.7,289944.0,25.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Other-service,False, White,False,True,False,True,False,105.0,False,True,False,False,60.0,F,1958-05-30
+413,Ngoc Frazier,"653 Elizabeth Road
+Mcleanberg, NY 31776",True, HS-grad,False,130.0,1.05,0.0,0.0,False,False,1.7,1.6,184889.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Other-service,False, Black,False,True,False,True,False,123.0,False,True,False,False,60.0,F,1958-05-19
+422,Paul Florez,"2963 Marisa Gateway
+Johnmouth, PA 26169",False, HS-grad,False,77.0,1.0065333333333333,0.0,0.0,False,False,1.3,2.3,37932.0,50.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Other-service,False, White,False,True,False,True,False,110.68,False,False,False,False,58.0,M,1959-11-28
+425,Paula Fore,"64459 Jonathan Terrace
+Fernandezhaven, MO 10116",True, HS-grad,False,92.0,0.95,0.0,0.0,False,False,2.3,2.3,190457.0,30.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Other-service,False, White,False,True,False,True,False,97.0,False,True,False,False,62.0,F,1956-06-22
+430,Phyllis Shepherd,"696 Kyle Fall
+Kanefurt, NM 71866",True, HS-grad,False,98.0,1.14,0.0,0.0,False,False,1.1,1.8,174196.0,40.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,other,8.855421686746988, Other-service,False, Black,False,True,False,True,False,85.0,False,True,False,False,78.0,F,1940-05-20
+451,Robert Laughlin,"267 William Trafficway
+Terriburgh, TX 62247",True, HS-grad,False,89.0,1.1,0.0,0.0,True,False,0.3,2.6,263670.0,80.0, Own-child,False, Private,True, Never-married,False, United-States,False,False,True,other,9.0, Other-service,False, Black,False,True,True,True,False,81.0,False,True,False,False,69.0,M,1949-07-09
+464,Rosalind Crook,"43756 George Green Suite 992
+Haneymouth, SD 24393",True, HS-grad,False,194.0,0.97,0.0,0.0,False,False,0.73,2.138805970149254,218085.0,50.0, Wife,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,False,STMW,9.0, Other-service,False, Black,False,True,False,True,False,200.0,False,True,False,False,18.0,F,2000-04-10
+473,Ruby Presson,"USS Webb
+FPO AE 97814",True, HS-grad,False,101.0,0.82,0.0,0.0,False,False,0.09,1.0,34102.0,35.0, Not-in-family,False, Self-emp-not-inc,False, Never-married,False, United-States,False,False,True,SVI,9.0, Other-service,False, White,False,True,False,True,False,123.0,False,True,False,False,64.0,F,1954-01-03
+476,Ruth Ledbetter,"8421 Wallace Harbors
+North Stephen, VA 32940",True, HS-grad,False,119.0,1.22,0.0,0.0,False,False,1.9,2.6,225294.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Other-service,False, Black,False,True,False,True,False,97.0,False,True,False,False,83.0,F,1935-04-12
+483,Sandi Collins,"Unit 0837 Box 3704
+DPO AE 18467",True, 10th,False,133.0,1.16,0.0,0.0,False,False,1.2,2.5,202952.0,24.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,6.0, Other-service,False, Black,False,True,False,True,False,115.0,False,True,False,False,76.0,F,1942-06-15
+486,Sarah Travis,"8102 Harper Ramp Apt. 949
+West Jessebury, MO 41658",True, Some-college,False,86.0,1.04,0.0,0.0,False,False,4.150197368421052,2.138805970149254,190823.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Other-service,False, Black,False,False,False,True,False,83.0,False,True,False,False,43.0,F,1975-07-15
+501,Sidney Cunningham,"54327 Warner Plaza
+North Ianside, NC 99945",True, Some-college,False,101.0,0.9,0.0,0.0,False,False,0.3,1.2,183000.0,24.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Other-service,False, White,False,True,False,True,False,112.0,False,True,False,False,52.0,M,1965-11-16
+510,Stephanie Pegues,"84921 Erin Skyway
+Adkinsfort, MS 07838",True, 11th,False,104.0,1.06,0.0,0.0,False,False,8.3,2.1,274424.0,40.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,True,other,7.0, Other-service,False, White,False,True,True,True,False,97.0,False,True,False,False,83.0,F,1935-08-15
+515,Steven Phillips,"807 Reynolds Field
+New Andrewview, ME 24234",True, HS-grad,False,78.0,0.85,0.0,0.0,True,False,0.2,2.0,321896.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,8.855421686746988, Other-service,False, White,False,True,False,True,False,92.0,False,True,False,False,38.0,M,1980-02-04
+517,Sue Constantine,"0135 Sylvia Plains Suite 549
+Cervanteschester, HI 31744",True, HS-grad,False,138.0,0.83,0.0,0.0,False,False,0.045,2.138805970149254,253296.0,40.0, Other-relative,False, Self-emp-not-inc,False, Widowed,False, United-States,False,False,False,other,9.0, Other-service,False, White,False,True,False,True,False,166.0,False,True,False,False,49.0,F,1968-12-29
+524,Thelma Blanchette,"12920 Jackson Viaduct Suite 467
+New David, NV 36666",True, Some-college,False,85.0,0.94,0.0,0.0,False,False,1.6,1.5,175972.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Other-service,False, White,False,True,False,True,False,90.0,False,True,False,False,75.0,F,1943-03-10
+530,Thomas Ramos,"3669 Matthew Highway Apt. 816
+Joseview, MD 39380",False, Some-college,False,105.0,1.0065333333333333,0.0,0.0,False,False,1.5,1.8,167691.0,50.0, Unmarried,False, Self-emp-not-inc,False, Never-married,False, United-States,False,False,True,other,10.0, Other-service,False, White,False,True,False,True,False,110.68,False,False,False,False,53.0,F,1964-11-16
+533,Timothy Allen,"1165 Erica Crescent Suite 096
+Ricardofort, MT 74736",False, HS-grad,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,4.150197368421052,2.138805970149254,233711.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,9.0, Other-service,False, White,False,False,False,False,False,110.68,False,False,False,False,63.0,F,1955-03-01
+540,Valentina York,"203 Green Stravenue Suite 022
+Sandersfort, VA 18946",True, HS-grad,False,141.0,1.28,0.0,0.0,False,False,0.8,2.5,22831.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHD,9.0, Other-service,False, White,False,True,False,True,False,110.0,False,True,False,False,75.0,F,1943-03-01
+545,Vicki Yoshida,"5766 Timothy Plain
+Christianberg, AK 38055",True, HS-grad,False,84.0,0.9,0.0,0.0,False,False,1.2,2.138805970149254,175255.0,35.0, Wife,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,False,other,9.0, Other-service,False, White,False,True,True,True,False,94.0,False,True,False,False,62.0,F,1956-04-20
+563,Zula Sanders,"84276 Gibson Creek Apt. 341
+North Kathryn, WI 55893",False, Assoc-acdm,False,110.48717948717949,1.0065333333333333,0.0,0.0,False,False,6.7,2.138805970149254,123984.0,35.0, Not-in-family,False, Private,False, Never-married,False, Philippines,False,False,False,STMW,12.0, Other-service,False, Asian-Pac-Islander,False,True,False,False,False,110.68,False,False,False,False,2.0,F,2015-11-24
+6,Albert Belanger,"295 Morgan Harbor
+East Kiara, MN 09249",True, Bachelors,False,109.0,1.03,0.0,0.0,False,False,0.2,1.9,84278.0,55.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,13.0, Prof-specialty,False, White,False,True,False,True,False,106.0,False,True,False,False,67.0,M,1951-06-08
+46,Betty Couchman,"010 Burton Land Apt. 115
+East Katherineland, WI 75660",True, Masters,False,114.0,1.17,0.0,0.0,True,False,3.9,1.926,38434.0,40.0, Not-in-family,False, Federal-gov,False, Never-married,False, United-States,False,False,False,other,14.0, Prof-specialty,False, White,False,True,False,True,False,97.0,False,True,False,True,53.0,F,1965-06-11
+47,Betty Donnelly,"505 Lopez Groves
+East Shawnberg, NE 53144",True, Some_college,False,99.0,1.02,0.0,0.0,False,False,1.4,2.0,279802.0,3.0, Own-child,False, Self-emp-not-inc,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Prof-specialty,False, White,False,True,False,True,False,97.0,False,True,False,False,37.0,F,1981-08-04
+63,Brenda Thompson,"194 Ashley Groves Apt. 619
+East Carl, NE 74614",True, Bachelors,False,181.0,0.96,0.0,7688.0,False,False,0.005,3.9,184117.0,20.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,13.0, Prof-specialty,False, White,False,True,True,True,False,188.0,False,True,False,False,58.0,F,1960-04-25
+68,Brian Sanchez,"Unit 8840 Box 0293
+DPO AA 91549",True, Masters,False,58.0,0.68,0.0,0.0,False,False,2.0,0.4,328581.0,55.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,14.0, Prof-specialty,False, White,False,True,False,True,False,85.0,False,True,False,False,82.0,M,1936-09-25
+71,Brittney Peters,"8148 Melissa Fork
+Bartonmouth, TN 54440",True, HS_grad,False,161.0,0.93,0.0,0.0,False,False,0.15,3.0,216685.0,35.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Prof-specialty,False, White,False,True,False,True,False,174.0,False,True,False,False,46.0,F,1972-06-30
+79,Carol Hobson,"201 Jillian Springs
+Williamsside, MD 03176",True, Some_college,False,99.0,0.97,0.0,0.0,False,False,11.4,1.926,151158.0,25.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Prof-specialty,False, White,False,True,False,True,False,102.0,False,True,False,False,59.0,F,1959-06-05
+94,Charles Saran,"1760 Lopez Field
+Davidbury, MI 19957",True, Doctorate,False,99.0,0.92,0.0,0.0,False,False,1.1,1.6,102771.0,40.0, Husband,False, Federal-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,12.508771929824562, Prof-specialty,False, White,False,True,False,True,False,108.0,False,True,False,False,69.0,M,1949-07-10
+101,Christie Jamesson,"30905 Susan Keys
+North Christopherburgh, NE 99039",True, Prof-school,False,87.0,1.0,0.0,0.0,False,True,0.6,1.926,204375.0,60.0, Not-in-family,False, Self-emp-not-inc,False, Never-married,False, United-States,False,False,False,other,15.0, Prof-specialty,False, White,False,True,False,True,False,88.0,False,True,False,False,49.0,F,1969-04-13
+102,Christina Bernal,"77450 Thomas Stream
+Collinsland, IL 52726",True, Bachelors,False,94.0,1.06,0.0,0.0,False,False,1.6,1.6,66194.0,60.0, Not-in-family,False, Private,False, Never-married,False, Outlying-US(Guam-USVI-etc),False,False,True,other,13.0, Prof-specialty,False, White,False,True,False,True,False,89.0,False,True,False,False,19.0,F,1999-05-23
+133,Denise Getz,"921 Mendoza Locks
+Garzachester, WI 99030",True, Bachelors,False,93.0,1.03,0.0,0.0,False,False,0.35,2.0,267588.0,70.0, Wife,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,13.0, Prof-specialty,False, White,False,True,False,True,False,90.0,False,True,False,False,78.0,F,1940-04-11
+146,Dorothy Mosier,"072 Lopez Isle Apt. 571
+Acevedoshire, ND 60693",True, Bachelors,False,193.0,1.33,0.0,0.0,False,False,0.83,1.926,116892.0,40.0, Not-in-family,False, Local-gov,False, Divorced,False, United-States,False,False,False,other,13.0, Prof-specialty,False, Black,False,True,False,True,False,144.0,False,True,False,False,53.0,F,1965-01-12
+153,Edith Sisk,"PSC 6816, Box 4195
+APO AA 31414",True, Bachelors,False,191.0,0.98,0.0,0.0,False,False,0.22,4.0,19700.0,50.0, Wife,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,12.508771929824562, Prof-specialty,False, White,False,True,True,True,False,194.0,False,True,False,False,36.0,F,1981-10-24
+156,Edward Ford,"978 Peterson Views Apt. 256
+Crawfordton, CO 40514",False, Masters,False,102.0,1.0211111111111113,0.0,0.0,False,False,1.3,2.0,173704.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,12.508771929824562, Prof-specialty,False, White,False,True,False,True,False,105.38095238095238,False,False,False,True,52.0,M,1966-01-28
+157,Eleanor Souliere,"28498 William Lane Apt. 462
+Jefferyland, OR 22266",True, Prof-school,False,158.0,1.59,0.0,15024.0,False,False,0.04,3.5,198873.0,30.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,STMW,15.0, Prof-specialty,False, White,False,True,False,True,False,100.0,False,True,False,False,42.0,F,1976-06-08
+175,Evelyn Pittman,"3439 Murphy Knoll Apt. 594
+Bartonland, UT 99479",True, Some-college,False,142.0,1.77,0.0,0.0,False,False,0.1,3.1,176239.0,40.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,STMW,10.0, Prof-specialty,False, White,True,True,False,True,False,80.0,False,True,False,False,29.0,F,1989-03-01
+179,Florence Nunez,"2851 Robert Park Suite 652
+New Robert, MA 21074",True, Masters,False,84.0,0.86,0.0,0.0,False,False,0.92,2.1,162566.0,50.0, Unmarried,False, Local-gov,False, Divorced,False, Canada,False,False,True,other,12.508771929824562, Prof-specialty,False, White,False,True,False,True,False,98.0,False,True,False,False,71.0,F,1947-02-15
+182,Frances Calderon,"5959 Allen Mountain Apt. 820
+New Robertview, GA 42787",True, HS-grad,False,142.0,1.05,0.0,0.0,False,False,0.005,1.8,25864.0,40.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,True,other,9.0, Prof-specialty,False, Amer-Indian-Eskimo,False,True,False,True,False,135.0,False,True,False,False,68.0,F,1949-11-01
+195,Gina Patton,"37006 Danielle Pine
+Port Stevenchester, VA 96566",True, Bachelors,False,123.0,1.16,0.0,0.0,False,False,1.9,1.926,99270.0,50.0, Wife,False, Private,False, Married-civ-spouse,False, Germany,False,False,False,other,13.0, Prof-specialty,False, White,False,True,False,True,False,107.0,False,True,False,False,36.0,F,1982-10-06
+197,Gladys Harris,"1012 George Corner
+North Dylan, ND 32236",True, Bachelors,False,92.0,0.92,0.0,0.0,False,False,2.4,1.3,352628.0,40.0, Not-in-family,False, State-gov,False, Divorced,False, United-States,False,False,True,other,13.0, Prof-specialty,False, White,False,True,False,True,False,100.0,False,True,False,False,79.0,F,1939-01-24
+202,Guadalupe Samuels,"4976 Ortiz Plaza Apt. 085
+Christopherside, SD 32970",True, Bachelors,False,65.0,1.16,0.0,0.0,False,False,103.0,2.1,199903.0,40.0, Not-in-family,True, Private,False, Never-married,False, United-States,False,False,True,SVI,13.0, Prof-specialty,False, White,False,True,False,True,False,56.0,False,True,False,False,28.0,F,1990-03-14
+205,Hannah Cotten,"8356 Wright Road
+Mccarthyton, NJ 02696",True, Some-college,False,84.0,0.87,0.0,0.0,False,False,3.2,0.9,58985.0,24.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Prof-specialty,False, White,False,True,False,True,False,96.0,False,True,False,False,70.0,F,1948-10-20
+214,Helen Leblanc,"95831 Robin Islands
+East Craig, DE 89940",False, Bachelors,False,101.0,1.0211111111111113,0.0,0.0,False,False,2.7,1.7,183168.0,43.0, Unmarried,False, Local-gov,False, Divorced,False, United-States,False,False,True,other,13.0, Prof-specialty,False, White,False,True,False,True,False,105.38095238095238,False,False,False,False,35.0,F,1982-11-02
+220,Howard Picciano,"411 Buck Field Apt. 005
+Masseyville, WV 62454",True, Bachelors,False,97.0,0.98,0.0,0.0,False,False,1.7,1.5,87282.0,38.0, Not-in-family,False, State-gov,False, Never-married,False, United-States,False,False,True,other,13.0, Prof-specialty,False, Asian-Pac-Islander,False,True,True,True,False,99.0,False,True,False,False,83.0,F,1934-12-19
+231,James Kennedy,"24208 Patrick Estates Apt. 222
+Kimfort, IL 75404",True, Bachelors,False,95.0,0.78,0.0,0.0,False,False,1.4,1.5,107458.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,13.0, Prof-specialty,False, White,False,True,False,True,False,122.0,False,True,False,False,67.0,M,1951-03-03
+233,James Shelton,"PSC 3223, Box 5404
+APO AA 21821",True, Bachelors,False,56.0,0.67,0.0,0.0,False,False,2.3,0.9,97863.0,45.0, Husband,False, Private,False, Married-civ-spouse,False, Italy,False,False,True,SVHC,13.0, Prof-specialty,False, White,False,True,False,True,False,84.0,False,True,False,False,83.0,M,1935-09-28
+234,James Sitzes,"149 Vasquez Turnpike
+New Jameshaven, CT 22734",True, Masters,False,94.0,0.97,0.0,0.0,False,False,4.4,1.7,307392.0,40.0, Unmarried,False, State-gov,False, Divorced,False, United-States,False,False,True,other,14.0, Prof-specialty,False, White,False,True,False,True,False,97.0,False,True,False,False,29.0,F,1989-03-14
+238,Janet Esser,"0352 Breanna Springs Apt. 210
+Port John, UT 40221",True, Masters,False,87.0,0.79,0.0,0.0,True,False,0.25,1.926,96287.0,45.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,14.0, Prof-specialty,False, White,False,True,False,True,False,109.0,False,True,False,False,61.0,F,1956-12-10
+241,Jaqueline Hansen,"377 David Land
+West Timothy, MO 82672",True, Bachelors,False,48.0,0.98,0.0,0.0,False,False,46.0,1.0,32837.0,56.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,12.508771929824562, Prof-specialty,False, White,False,True,False,True,False,49.0,False,True,False,False,67.0,F,1951-06-20
+247,Jennifer Beason,"8221 Gaines Tunnel Apt. 216
+Jasonside, NV 46641",True, Masters,False,182.0,1.37,0.0,0.0,False,False,1.5,2.2,196456.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,12.508771929824562, Prof-specialty,False, White,False,True,False,True,False,133.0,False,True,False,False,27.0,F,1990-10-22
+250,Jeremy Dziuk,"44944 Fuentes Parkways
+Pamelamouth, NE 61251",True, Bachelors,False,107.0,0.86,0.0,0.0,False,False,0.6,2.7,116394.0,50.0, Husband,False, Federal-gov,False, Married-AF-spouse,False, United-States,False,False,True,SVI,13.0, Prof-specialty,False, White,False,True,False,True,False,125.0,False,True,False,False,44.0,M,1974-08-23
+272,Joyce Hubley,"5276 Theresa Landing
+Wardbury, ID 57327",False, Bachelors,False,87.0,1.0211111111111113,0.0,4865.0,False,False,27.0,1.7,29732.0,36.0, Not-in-family,True, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Prof-specialty,False, White,False,True,False,True,False,105.38095238095238,False,False,False,False,37.0,F,1981-03-20
+277,Julia Colligan,"455 Hamilton Groves
+West Michael, UT 60328",True, Masters,False,111.0,1.0,0.0,0.0,False,False,4.7,1.926,55076.0,60.0, Not-in-family,False, State-gov,False, Never-married,False, United-States,False,False,False,other,14.0, Prof-specialty,False, White,False,True,False,True,False,112.0,False,True,False,False,51.0,F,1967-08-30
+278,Karen Homer,"95019 Gina Motorway
+Dickersonberg, SD 31082",True, Bachelors,False,101.0,1.18,0.0,8614.0,False,False,0.6,2.4,122127.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Prof-specialty,False, White,False,True,False,True,False,86.0,False,True,False,False,60.0,F,1957-11-03
+288,Kathy Secrist,"7007 Banks Manors Suite 731
+West Dianamouth, NE 91192",True, Masters,False,105.0,0.97,0.0,0.0,False,False,0.2,1.926,158451.0,2.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,14.0, Prof-specialty,False, White,False,True,False,True,False,108.0,False,True,False,False,52.0,F,1966-07-17
+293,Kayla Strain,"658 Nichols Green
+Holmesside, AR 71629",True, Masters,False,70.0,0.8,0.0,0.0,False,False,0.9,1.926,56795.0,45.0, Wife,False, Private,True, Married-civ-spouse,False, England,False,False,False,other,14.0, Prof-specialty,False, White,False,True,False,True,False,87.0,False,True,False,False,70.0,F,1947-10-30
+305,Kristen Mckinney,"11643 Torres Mission
+Alyssashire, CT 32945",True, Bachelors,False,100.0,1.01,0.0,0.0,False,False,4.4,1.6,32186.0,40.0, Not-in-family,False, State-gov,False, Separated,False, United-States,False,False,True,STMW,13.0, Prof-specialty,False, White,False,True,False,True,False,99.0,False,True,False,False,47.0,F,1971-07-08
+318,Lillian Batchelor,"386 Steven Ferry Suite 553
+North Joyhaven, PA 18021",True, HS-grad,False,70.0,0.95,0.0,3137.0,False,False,9.4,1.926,179896.0,40.0, Wife,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,True,False,other,9.0, Prof-specialty,False, White,False,True,False,True,False,74.0,False,True,False,False,26.0,F,1992-02-18
+327,Lois Whitten,"PSC 4572, Box 5232
+APO AP 43680",True, Masters,False,112.0,0.89,0.0,7298.0,False,False,1.3,1.8,33662.0,40.0, Wife,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,14.0, Prof-specialty,False, White,False,True,False,True,False,126.0,False,True,False,False,62.0,F,1956-07-29
+342,Manuel Hardter,"4445 Brown Mountains
+Schultzshire, MD 75185",True, Bachelors,False,159.0,1.13,0.0,0.0,False,False,0.01,2.1,157612.0,55.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHD,13.0, Prof-specialty,False, White,False,True,False,True,False,140.0,False,True,False,False,61.0,F,1957-02-21
+347,Marian Caplinger,"81602 David Pass
+Cookeshire, NY 69987",True, Assoc-acdm,False,77.0,1.11,0.0,0.0,False,False,58.0,1.926,110279.0,35.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,12.0, Prof-specialty,False, Black,False,True,False,True,False,69.0,False,True,False,True,51.0,F,1967-03-16
+348,Marian West,"18022 Sanchez Gateway
+West Brooke, IL 79576",True, Masters,False,96.0,1.1,0.0,8614.0,False,False,3.6,2.0,331651.0,50.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,14.0, Prof-specialty,False, White,False,True,False,True,False,88.0,False,True,False,False,55.0,F,1963-06-26
+355,Mark Kilpatrick,"7479 Davis Spur Suite 237
+Reneeview, NH 53880",True, Masters,False,82.0,0.74,0.0,0.0,False,False,3.6,0.6,200892.0,40.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,14.0, Prof-specialty,False, White,False,True,False,True,False,110.0,False,True,True,False,84.0,M,1934-09-23
+358,Marlene Ray,"04555 Peter Squares
+West Jeff, MI 82657",True, Assoc-voc,False,109.0,1.06,0.0,0.0,False,False,12.0,1.8,236008.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,11.0, Prof-specialty,False, White,False,True,False,True,False,102.0,False,True,False,False,52.0,F,1966-02-01
+369,Mary Knowles,"44850 Sonya Harbors Apt. 785
+Rossville, HI 92001",True, HS-grad,False,67.0,0.98,0.0,0.0,False,False,15.695468750000002,1.926,134699.0,25.0, Not-in-family,False, Private,False, Widowed,False, United-States,False,False,False,other,9.0, Prof-specialty,False, White,False,False,False,True,False,68.0,False,True,False,False,23.0,F,1994-12-04
+383,Melba Fleming,"218 Lori Stream
+Lake Michaelport, NC 85596",True, Doctorate,False,176.0,1.43,0.0,0.0,False,True,15.695468750000002,3.6,606111.0,60.0, Not-in-family,False, Private,False, Never-married,False, Germany,False,False,True,other,12.508771929824562, Prof-specialty,False, White,False,False,False,True,False,123.0,False,True,False,False,31.0,F,1987-03-09
+397,Michelle Zayas,"0057 Peterson Glen Suite 379
+Kevinview, AL 09071",True, Some-college,False,96.0,1.05,0.0,6849.0,False,False,1.0,2.3,189620.0,40.0, Not-in-family,False, Private,False, Divorced,False, England,False,False,True,SVI,10.0, Prof-specialty,False, White,False,True,False,True,False,92.0,True,True,False,False,78.0,F,1940-05-03
+412,Nettie Mclean,"20270 Gray Manors
+West Emily, UT 14334",True, Masters,False,101.0,0.9,0.0,0.0,False,False,1.7,1.2,63424.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,14.0, Prof-specialty,False, White,False,True,False,True,False,112.0,True,True,False,False,59.0,F,1959-08-07
+416,Olivia Le,"514 James Club
+North Phyllis, NV 18588",True, Some-college,False,101.0,1.07,0.0,2176.0,False,True,1.1,1.926,169600.0,12.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Prof-specialty,False, White,False,True,False,True,False,94.0,False,True,False,False,25.0,F,1993-01-02
+421,Patty Flint,"01067 Jennifer Knoll Suite 260
+Lake Jeffrey, CA 53274",True, Bachelors,False,136.0,1.07,0.0,14344.0,False,False,1.7,2.3,233955.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,13.0, Prof-specialty,False, Amer-Indian-Eskimo,False,True,False,True,False,127.0,False,True,True,False,46.0,F,1972-08-28
+429,Phyllis Searcy,"6415 Warren Meadow
+Jamesside, WV 33565",True, Bachelors,False,159.0,1.07,0.0,0.0,True,False,0.2,1.926,127610.0,15.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,13.0, Prof-specialty,False, White,False,True,False,True,False,149.0,False,True,False,False,60.0,F,1957-11-08
+441,Regina Loftin,"USNS Miller
+FPO AE 19135",True, Masters,False,85.0,0.92,0.0,0.0,False,False,1.8,1.8,187969.0,80.0, Unmarried,False, Local-gov,False, Divorced,False, United-States,False,False,True,SVHC,14.0, Prof-specialty,False, White,False,True,False,True,False,92.0,False,True,False,False,70.0,F,1948-08-26
+453,Robert Osborn,"0400 Kiara Pines Suite 134
+Watsonmouth, NH 16990",True, Assoc-acdm,False,61.0,0.91,0.0,0.0,False,False,0.2,1.5,102729.0,70.0, Husband,False, Self-emp-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,12.0, Prof-specialty,False, White,False,True,False,True,False,67.0,False,True,False,False,47.0,M,1970-10-31
+465,Rose Broderick,"5611 Ryan Corners
+New Aaron, TX 16718",True, Bachelors,False,120.0,0.8,0.0,0.0,False,False,0.3,2.3,162623.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Prof-specialty,False, White,False,True,False,True,False,149.0,False,True,False,False,71.0,F,1947-02-22
+475,Ruth Falco,"39995 Lewis Hills
+Staceymouth, DC 89883",True, Assoc-voc,False,77.0,0.79,0.0,0.0,False,False,9.7,1.1,175614.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,12.508771929824562, Prof-specialty,False, White,False,True,False,True,False,97.0,False,True,False,False,72.0,F,1946-02-14
+520,Tara Myrick,"902 Amanda Parkways
+Christophermouth, IL 58467",True, Masters,False,69.0,0.77,1977.0,0.0,False,False,0.1,0.7,344855.0,20.0, Wife,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,14.0, Prof-specialty,False, White,False,True,False,True,False,89.0,False,True,False,False,46.0,F,1972-08-29
+523,Terry Sandmann,"97551 Taylor Junctions
+Robertshire, NY 60713",True, Bachelors,False,81.0,0.9,1340.0,0.0,False,True,1.3,2.1,405284.0,42.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Prof-specialty,False, White,False,True,False,True,False,90.0,False,True,False,False,36.0,F,1982-06-28
+525,Theodora Shropshire,"PSC 0343, Box 8880
+APO AE 76052",True, HS-grad,False,150.0,0.99,0.0,0.0,True,False,0.1,1.926,31166.0,30.0, Not-in-family,False, Private,False, Divorced,False, Germany,False,False,False,other,9.0, Prof-specialty,False, Other,False,True,False,True,False,151.0,False,True,False,False,60.0,F,1958-10-08
+526,Theresa Vandergriff,"140 Melissa Road
+Port Elizabeth, SD 25621",True, Doctorate,False,104.0,1.04,0.0,0.0,False,False,1.3,1.8,56964.0,50.0, Wife,False, State-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,16.0, Prof-specialty,False, White,False,True,True,True,False,100.0,False,True,False,False,77.0,F,1941-04-11
+529,Thomas Pierce,"795 Matthews Throughway Suite 398
+New Joyce, RI 21163",True, Assoc-voc,False,120.0,0.98,0.0,0.0,False,False,1.6,2.1,104521.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,11.0, Prof-specialty,False, White,False,True,False,True,False,122.0,False,True,False,False,74.0,M,1944-05-02
+538,Troy Aguilera,"8147 Steven Passage
+West Aaronmouth, AR 50133",True, Masters,False,106.0,0.92,0.0,0.0,False,False,1.1,1.4,383493.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,14.0, Prof-specialty,False, White,False,True,False,True,False,115.0,False,True,False,False,70.0,M,1948-03-22
+542,Veronica Boddie,"0628 Lowe Brooks Apt. 072
+South Nicholas, IN 70836",True, Bachelors,False,175.0,1.04,0.0,0.0,True,False,0.03,1.926,267843.0,35.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,12.508771929824562, Prof-specialty,False, Black,False,True,False,True,False,168.0,False,True,False,False,71.0,F,1947-08-13
+555,William Hammond,"147 Rivera Trail
+East Mary, AK 42075",True, Masters,False,123.0,1.09,0.0,0.0,False,False,2.2,1.6,30682.0,50.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,SVI,14.0, Prof-specialty,False, White,False,True,False,True,False,113.0,False,True,False,False,60.0,M,1958-02-26
+557,Willie Brand,"120 Watson Crossing
+Christianmouth, MS 80350",True, Assoc-acdm,False,156.0,1.67,0.0,0.0,False,False,0.9,3.3,275232.0,36.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,STMW,12.0, Prof-specialty,False, Black,False,True,False,True,False,93.0,False,True,False,False,20.0,F,1998-07-21
+28,Ann Thomas,"Unit 2432 Box 3382
+DPO AP 36056",True, Bachelors,False,85.0,0.95,0.0,0.0,False,False,2.2,1.9652173913043476,245361.0,25.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,13.0, Exec-managerial,False, White,False,True,False,True,False,90.0,False,True,False,False,19.0,F,1999-08-10
+32,Annette Schuckert,"1227 Johnson Falls Suite 461
+East Lisastad, UT 37895",True, 11th,False,115.0,0.84,0.0,0.0,True,False,0.005,1.6,200381.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,True,True,SVHD,7.0, Exec-managerial,False, White,False,True,False,True,False,138.0,True,True,False,False,55.0,F,1963-06-13
+38,Barbara Walker,"453 Nancy Road Apt. 013
+Hayesstad, CA 26056",True, HS-grad,False,189.0,1.35,0.0,0.0,False,False,0.4,3.4,165148.0,12.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,True,other,10.73469387755102, Exec-managerial,False, White,False,True,True,True,False,140.0,False,True,False,False,21.0,F,1997-09-01
+57,Bill Lowrey,"67550 Lozano Trail
+North Anthonyside, DC 06440",True, Bachelors,False,103.0,0.89,0.0,0.0,False,False,1.4,1.8,144002.0,60.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Exec-managerial,False, White,False,True,False,True,False,115.0,False,True,False,False,55.0,M,1963-08-19
+59,Blanche Hall,"2292 Spears Junctions
+Lake Jilliantown, VT 00844",True, HS-grad,False,97.0,1.09,0.0,0.0,False,True,1.3,2.3,277530.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Exec-managerial,False, White,False,True,False,True,False,88.0,False,True,False,False,67.0,F,1951-07-09
+72,Bruce Stohr,"Unit 4918 Box 4712
+DPO AP 86473",True, HS-grad,False,101.0,0.93,0.0,5178.0,False,False,8.0,1.3,105821.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Exec-managerial,False, White,False,True,False,True,False,108.0,False,True,False,False,73.0,M,1945-02-01
+75,Carl Norden,"PSC 4743, Box 4663
+APO AA 85497",True, HS-grad,False,92.0,0.99,0.0,0.0,False,False,5.7,1.4,191129.0,65.0, Not-in-family,False, Self-emp-inc,True, Never-married,False, United-States,False,False,True,other,9.0, Exec-managerial,False, White,False,True,False,True,False,93.0,False,True,False,False,72.0,M,1946-07-09
+80,Carroll Stallard,"945 Lane Summit Suite 145
+South Richardview, TX 31588",True, HS-grad,False,95.0,1.07,0.0,0.0,False,False,2.3,2.7,140644.0,40.0, Husband,False, Private,True, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Exec-managerial,False, White,False,True,False,True,False,88.0,False,True,False,False,70.0,F,1948-06-03
+81,Casey Williams,"4512 Dudley Mews Apt. 991
+Port Kimberly, DE 36770",True, Bachelors,False,124.0,1.15,0.0,0.0,False,False,0.2,2.5,164190.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Exec-managerial,False, White,False,True,False,True,False,108.0,False,True,False,True,69.0,M,1949-07-26
+114,Clyde Do,"54756 Delgado Plain
+Odomberg, TX 52725",True, Some-college,False,98.0,0.85,0.0,0.0,False,False,0.1,2.3,364548.0,48.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,10.0, Exec-managerial,False, White,False,True,False,True,False,115.0,False,True,True,False,18.0,M,1999-11-16
+120,Cynthia Valencia,"19058 Patrick Skyway
+East James, AZ 47046",False, HS-grad,False,107.13207547169812,0.9938461538461537,0.0,0.0,False,False,2.4092307692307693,2.1,148254.0,60.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Exec-managerial,False, White,False,False,False,False,False,111.25,False,False,False,False,78.0,F,1940-09-30
+124,Dana Liriano,"46452 Stephanie Cove
+Port Ashleymouth, CT 92026",True, Bachelors,False,123.0,0.74,0.0,7688.0,True,False,0.1,1.9652173913043476,178948.0,45.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,13.0, Exec-managerial,False, White,False,True,False,True,False,166.0,False,True,False,False,64.0,F,1954-07-30
+126,Daniel Reed,"4228 Manuel Ville
+Montgomerytown, OH 91350",False, Bachelors,False,107.13207547169812,0.9938461538461537,0.0,15024.0,False,False,12.0,2.0,88909.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,10.73469387755102, Exec-managerial,False, White,False,True,False,False,False,111.25,False,False,False,False,53.0,M,1965-05-09
+127,Darla Evans,"1217 Jonathan Overpass Apt. 494
+Curtismouth, FL 79106",True, Bachelors,False,121.0,1.02,1902.0,0.0,False,False,1.2,2.2,325355.0,40.0, Wife,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Exec-managerial,False, White,False,True,True,True,False,118.0,False,True,False,False,67.0,F,1951-06-15
+131,Dean Moriarty,"18427 Peters Haven
+Port Rodneyland, OK 25298",False, Some-college,False,22.0,0.9938461538461537,0.0,0.0,False,False,0.015,4.8,116103.0,50.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Exec-managerial,False, White,False,True,False,True,False,111.25,False,False,False,False,20.0,M,1998-05-25
+145,Dorothy Harney,"2011 Melinda Ranch
+New Jessica, TX 43306",True, HS-grad,False,187.0,0.95,0.0,0.0,False,False,0.2,1.1,39643.0,58.0, Not-in-family,False, Federal-gov,False, Widowed,False, United-States,False,False,True,other,9.0, Exec-managerial,False, White,False,True,False,True,False,197.0,False,True,True,True,63.0,F,1955-01-16
+163,Elizabeth Killian,"9829 Young Wells
+Williamstown, NE 41613",True, HS-grad,False,85.0,0.89,0.0,0.0,False,False,0.7,2.0,188972.0,30.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,SVHC,9.0, Exec-managerial,False, White,False,True,False,True,False,96.0,False,True,False,False,52.0,F,1965-12-13
+174,Eva Roundtree,"2670 Reyes Squares
+Pachecoland, UT 66344",True, Masters,False,217.0,0.98,0.0,14084.0,False,False,0.15,3.5,56795.0,55.0, Not-in-family,False, Federal-gov,False, Never-married,False, United-States,False,False,True,other,14.0, Exec-managerial,False, White,False,True,True,True,False,221.0,False,True,False,False,65.0,F,1952-11-23
+177,Flora Jackson,"399 Peterson Ways
+Port Jasonport, NE 86793",True, Some-college,False,161.0,1.65,0.0,0.0,False,False,0.6,4.5,24108.0,40.0, Not-in-family,False, Private,False, Separated,False, United-States,False,False,True,other,10.0, Exec-managerial,False, White,False,True,False,True,False,97.0,False,True,False,False,59.0,F,1959-10-02
+184,Frances Pryor,"94477 Ashley Valley
+North Jack, IN 16599",False, Some-college,False,107.13207547169812,0.9938461538461537,0.0,0.0,False,True,2.4092307692307693,2.8,89400.0,40.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,True,SVI,10.0, Exec-managerial,False, White,False,False,False,False,False,111.25,False,False,False,False,53.0,F,1965-09-20
+222,Inez Shaw,"Unit 0942 Box 9910
+DPO AP 73364",True, HS-grad,False,126.0,1.36,0.0,0.0,False,False,6.9,1.9652173913043476,185602.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,10.73469387755102, Exec-managerial,False, White,False,True,False,True,False,93.0,False,True,False,False,61.0,F,1957-05-15
+228,James Conner,"02980 Bryan Dam
+West Jenniferhaven, NM 44980",True, Bachelors,False,78.0,0.95,0.0,0.0,False,False,0.72,0.5,130057.0,45.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.73469387755102, Exec-managerial,False, White,False,True,False,True,False,82.0,False,True,False,False,62.0,M,1956-05-25
+236,Jane Dexter,"9134 Anderson Bridge
+New Brianfort, PA 68993",True, Some-college,False,120.0,0.85,0.0,0.0,False,False,1.6,2.2,27466.0,40.0, Not-in-family,False, Federal-gov,False, Widowed,False, England,False,False,True,other,10.0, Exec-managerial,False, White,False,True,False,True,False,141.0,False,True,True,False,65.0,F,1953-04-27
+242,Jason Muller,"221 Rebecca Common
+New Michaela, FL 44468",True, Some-college,False,148.0,1.11,0.0,0.0,False,False,19.0,1.9652173913043476,232475.0,50.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,10.0, Exec-managerial,False, White,False,True,False,True,False,134.0,False,True,False,False,83.0,F,1935-07-06
+243,Jayne Warren,"USCGC Bishop
+FPO AP 43393",True, HS-grad,False,97.0,1.12,0.0,0.0,False,False,4.6,1.6,172364.0,48.0, Not-in-family,False, Private,False, Separated,False, United-States,False,False,True,SVHC,9.0, Exec-managerial,False, White,False,True,False,True,False,87.0,False,True,False,False,29.0,F,1989-06-15
+248,Jennifer Butterworth,"USS Hatfield
+FPO AA 94343",True, Bachelors,False,66.0,0.66,0.0,0.0,False,False,0.91,2.1,127610.0,50.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,13.0, Exec-managerial,False, White,False,True,False,True,False,99.0,False,True,False,False,31.0,F,1987-06-19
+285,Kathryn Koch,"PSC 0340, Box 4361
+APO AP 69735",True, Some-college,False,83.0,1.01,0.0,0.0,False,False,11.0,1.2,117833.0,19.0, Wife,False, State-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,10.73469387755102, Exec-managerial,False, White,False,True,False,True,False,82.0,True,True,False,False,61.0,F,1957-07-05
+297,Kenneth Sullivan,"91110 Lisa Wall Apt. 984
+Contreraschester, MA 17265",True, Some_college,False,77.0,0.91,0.0,0.0,False,False,1.0,2.1,143266.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Exec-managerial,False, White,False,True,False,True,False,84.0,False,True,False,False,74.0,M,1944-05-29
+298,Kent Claypoole,"8070 Myers Coves Apt. 658
+North Catherinechester, WA 45897",True, Some-college,False,78.0,0.92,0.0,15024.0,False,False,1.6,1.8,383493.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,10.0, Exec-managerial,False, White,False,True,False,True,False,85.0,False,True,True,False,65.0,M,1953-09-13
+302,Kimberly Jones,"49068 Arellano Parks Suite 631
+North Joshuastad, IN 54508",True, Some-college,False,109.0,0.83,0.0,0.0,False,False,5.4,1.4,223716.0,40.0, Not-in-family,False, Local-gov,False, Divorced,False, United-States,False,False,True,SVI,10.73469387755102, Exec-managerial,False, Amer-Indian-Eskimo,False,True,False,True,False,131.0,True,True,False,False,74.0,F,1944-05-20
+303,Kimberly Leon,"098 Frederick Forge
+Garyport, RI 34198",True, Some-college,False,121.0,1.01,0.0,0.0,False,False,3.0,2.3,73394.0,50.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Exec-managerial,False, White,False,True,False,True,False,120.0,False,True,False,True,72.0,F,1945-12-07
+331,Lucia Cruson,"987 Frazier Mill
+Lake Donaldfurt, MD 05861",True, Bachelors,False,81.0,0.9,0.0,0.0,False,False,0.25,2.2,185452.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,13.0, Exec-managerial,False, White,False,True,False,True,False,90.0,False,True,False,False,65.0,F,1953-03-06
+332,Lucilla Mcelwain,"03102 David Roads Apt. 450
+Maryshire, WA 86917",True, Assoc-voc,False,95.0,0.9,0.0,0.0,False,False,2.5,1.8,328199.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,11.0, Exec-managerial,False, White,False,True,False,True,False,106.0,False,True,False,False,41.0,F,1977-01-04
+334,Luetta Sease,"1052 Herrera Shores Suite 676
+New Jason, FL 46009",True, Assoc-voc,False,107.0,0.91,0.0,0.0,True,False,0.76,1.9652173913043476,110151.0,45.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,11.0, Exec-managerial,False, White,False,True,False,True,False,118.0,False,True,False,False,41.0,F,1977-06-09
+335,Lynda Hill,"658 Jackson Pines Apt. 979
+Wilsonberg, GA 13292",True, Some-college,False,118.0,1.04,0.0,1138.3275862068965,False,False,2.4092307692307693,1.9652173913043476,75363.0,40.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,False,other,10.0, Exec-managerial,False, White,False,False,False,True,False,112.0,False,True,False,False,37.0,F,1980-11-22
+346,Maria Newman,"07274 Tammy Cliffs Apt. 958
+Wilsonmouth, SD 86322",True, Masters,False,99.0,0.96,0.0,3103.0,False,False,2.4092307692307693,2.0,194252.0,40.0, Wife,False, State-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,14.0, Exec-managerial,False, White,False,False,False,True,False,104.0,False,True,False,False,41.0,F,1976-11-01
+372,Mary Schatz,"USNV Garcia
+FPO AA 79435",True, Some-college,False,80.0,0.8,0.0,0.0,False,False,2.2,0.2,261816.0,52.0, Not-in-family,False, Private,False, Divorced,False, Outlying-US(Guam-USVI-etc),False,False,True,SVI,10.0, Exec-managerial,False, White,False,True,False,True,False,99.0,False,True,False,False,77.0,F,1941-01-19
+379,Matthew Capps,"5368 Weeks Fort Apt. 920
+Ortiztown, AL 60751",True, Bachelors,False,119.0,1.05,0.0,0.0,False,False,1.2,1.6,114059.0,45.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,13.0, Exec-managerial,False, White,False,True,False,True,False,113.0,False,True,False,False,56.0,M,1962-02-21
+382,Megan Fraley,"PSC 7610, Box 7057
+APO AA 95822",True, HS-grad,False,101.0,0.96,0.0,0.0,False,False,0.4,2.7,180374.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Exec-managerial,False, White,False,True,False,True,False,105.0,False,True,False,False,74.0,F,1944-07-23
+409,Natasha Turpin,"60431 Richardson Forest Apt. 871
+Richardsonburgh, VA 29372",True, Some-college,False,126.0,1.31,0.0,0.0,False,False,0.65,1.9652173913043476,186982.0,45.0, Not-in-family,False, Private,False, Separated,False, United-States,False,False,False,other,10.0, Exec-managerial,False, White,False,True,False,True,False,96.0,False,True,False,True,59.0,F,1959-06-16
+415,Norma White,"20617 Ryan Groves Suite 694
+South Natasha, WA 44105",True, Assoc-acdm,False,142.0,1.2,0.0,0.0,False,False,0.4,1.9652173913043476,54229.0,37.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,12.0, Exec-managerial,False, White,False,True,False,True,False,118.0,False,True,False,False,24.0,F,1993-11-09
+417,Patricia Osmun,"089 Jo Square
+Amandafort, KS 77465",True, Bachelors,False,99.0,0.79,0.0,0.0,False,False,1.5,0.8,38645.0,40.0, Not-in-family,False, Federal-gov,False, Never-married,False, United-States,False,False,True,SVI,13.0, Exec-managerial,False, White,False,True,False,True,False,126.0,False,True,False,False,70.0,F,1948-04-05
+424,Paul Price,"2902 Harmon Track Apt. 666
+Adamsville, DC 95298",True, Bachelors,False,91.0,0.83,0.0,0.0,False,False,1.0,0.7,117567.0,60.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.73469387755102, Exec-managerial,False, White,False,True,False,True,False,110.0,False,True,False,False,64.0,M,1954-01-12
+426,Peggy Hipp,"461 Steven Squares Suite 958
+New Wanda, UT 60150",True, Some-college,False,54.0,1.66,0.0,0.0,False,False,0.005,2.0,22494.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,STMW,10.0, Exec-managerial,False, White,False,True,True,True,False,33.0,False,True,False,False,34.0,F,1984-09-15
+439,Rebecca Helmes,"8569 Douglas Terrace
+North Dawn, MT 81616",True, Some-college,False,95.0,0.68,0.0,2597.0,False,False,1.1,1.7,79870.0,40.0, Own-child,False, Private,False, Married-civ-spouse,False, Japan,False,False,True,SVI,10.0, Exec-managerial,False, White,False,True,False,True,False,140.0,True,True,False,False,70.0,F,1948-02-21
+440,Refugio Lyons,"704 Mary Common Apt. 839
+Lake Chadmouth, ND 83666",True, Assoc-acdm,False,166.0,0.97,0.0,0.0,True,False,0.02,1.9652173913043476,144322.0,50.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,10.73469387755102, Exec-managerial,False, White,False,True,False,True,False,170.0,False,True,False,False,63.0,F,1955-09-18
+455,Robert Simpson,"447 Sean Manors Apt. 471
+Kathleenfurt, GA 84266",True, Some-college,False,70.0,0.9,0.0,0.0,False,False,2.4,1.9652173913043476,183810.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,10.73469387755102, Exec-managerial,False, White,False,True,False,True,False,78.0,False,True,False,False,70.0,M,1948-02-27
+462,Rosa Binkley,"89644 Eric Camp
+Elizabethfurt, DE 38778",True, Bachelors,False,103.0,0.98,0.0,3325.0,False,False,0.89,1.8,185057.0,40.0, Not-in-family,False, Self-emp-not-inc,False, Divorced,False, United-States,False,False,True,SVI,10.73469387755102, Exec-managerial,False, White,False,True,False,True,False,105.0,False,True,True,False,78.0,F,1940-03-10
+474,Rueben Briceno,"965 Rachel Burg Apt. 209
+Gordonbury, AL 62760",True, HS-grad,False,103.0,0.96,0.0,0.0,False,False,3.5,1.7,118429.0,50.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Exec-managerial,False, White,False,True,False,True,False,107.0,False,True,False,False,44.0,M,1974-09-04
+477,Ruth Washington,"638 Adam Rapids Apt. 217
+Lake Randytown, RI 44134",True, Some-college,False,87.0,0.84,0.0,0.0,False,False,1.0,2.0,112310.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVHC,10.0, Exec-managerial,False, White,False,True,False,True,False,103.0,False,True,False,False,57.0,F,1960-11-29
+478,Sally Riegel,"755 Brittany Overpass
+New Madisonchester, WI 89900",True, Assoc-acdm,False,82.0,1.1,0.0,0.0,False,False,3.3,0.9,106627.0,50.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,other,12.0, Exec-managerial,False, Black,False,True,False,True,False,75.0,False,True,False,False,63.0,F,1954-12-07
+484,Santos Young,"0963 Smith Mountain
+South Audrey, CO 41044",True, Some-college,False,87.0,0.69,0.0,0.0,False,False,0.035,0.3,336643.0,80.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,SVI,10.0, Exec-managerial,False, White,False,True,False,True,False,126.0,False,True,False,False,60.0,F,1957-11-22
+492,Sharon Mitchell,"183 Montes Rest Suite 879
+Sharonmouth, DC 33747",False, Assoc-acdm,False,107.13207547169812,0.9938461538461537,0.0,0.0,False,False,2.4092307692307693,1.9652173913043476,244402.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,12.0, Exec-managerial,False, White,False,False,False,False,False,111.25,False,False,False,False,82.0,F,1936-01-28
+496,Sheila Solomon,"827 Tiffany Centers
+Ericksonview, AK 55253",True, Assoc-acdm,False,101.0,0.9,0.0,0.0,False,False,1.3,2.5,207301.0,40.0, Own-child,False, Private,False, Divorced,False, United-States,False,False,True,SVHC,12.0, Exec-managerial,False, White,False,True,False,True,False,112.0,False,True,False,False,33.0,F,1985-05-31
+521,Tawnya Barry,"64064 Gardner Extension
+West Erikatown, DE 34160",True, Bachelors,False,159.0,1.51,0.0,0.0,False,False,7.8,2.0,159724.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,13.0, Exec-managerial,False, White,False,True,False,True,False,105.0,False,True,False,False,31.0,F,1987-04-09
+522,Terry Murphy,"827 John Camp Apt. 510
+Williamland, ID 42790",True, HS-grad,False,76.0,0.86,0.0,0.0,False,False,0.6,1.9652173913043476,260578.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,9.0, Exec-managerial,False, White,False,True,False,True,False,88.0,False,True,False,True,67.0,F,1951-01-24
+527,Therese Wyman,"5542 Benjamin Inlet
+Lake Davidstad, KY 93468",False, HS-grad,False,107.13207547169812,0.9938461538461537,0.0,0.0,False,False,2.4092307692307693,1.9652173913043476,203735.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,False,other,9.0, Exec-managerial,False, White,False,False,False,False,False,111.25,False,False,False,False,53.0,F,1965-05-03
+562,Zelma Zins,"121 Davila Islands
+South Christopher, MO 01717",True, 11th,False,119.0,0.91,0.0,0.0,False,False,0.17,1.8,119170.0,45.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,SVI,7.0, Exec-managerial,False, White,False,True,False,True,False,130.0,False,True,False,False,82.0,F,1936-05-27
+31,Anne Lipson,"632 Heather Wall Suite 709
+Andersonhaven, MT 75892",True, HS-grad,False,123.0,0.93,0.0,0.0,False,True,0.6,2.2,155752.0,30.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,8.411764705882353, Machine-op-inspct,False, White,False,True,False,True,False,132.0,False,True,False,False,66.0,F,1952-02-04
+35,Ashley Carroll,"82640 Jason Fords Suite 510
+Jennifermouth, WV 96372",True, 10th,False,136.0,0.9,0.0,0.0,False,False,0.78,1.9,148069.0,40.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,True,SVI,6.0, Machine-op-inspct,False, White,False,True,False,True,False,152.0,True,True,False,False,70.0,F,1948-09-26
+65,Brian Batson,"7809 Trevino Mill Suite 548
+Perryton, MI 26274",True, HS-grad,False,99.0,0.79,0.0,0.0,False,False,2.2,2.3,120302.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,9.0, Machine-op-inspct,False, White,False,True,False,True,False,125.0,False,True,True,False,34.0,M,1984-09-30
+87,Cecil Vancleave,"68123 Lopez Branch Apt. 948
+East Robinstad, CO 84190",True, HS-grad,False,119.0,0.9,0.0,0.0,False,False,0.29,1.5,318331.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, White,False,True,False,True,False,132.0,False,True,False,False,61.0,F,1957-03-13
+103,Christina Fitzgerald,"42437 Ashley Ports
+North Isaacmouth, MA 91023",True, Some_college,False,77.0,0.8,0.0,0.0,False,False,3.1,1.9,102889.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,False,True,SVI,10.0, Machine-op-inspct,False, White,False,True,False,True,False,97.0,False,True,False,False,50.0,F,1968-08-31
+105,Christina Rogers,"9902 Aaron Wells Apt. 350
+Stephensonmouth, WI 25935",True, HS-grad,False,128.0,1.08,0.0,0.0,False,False,7.6,1.7,23892.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, White,False,True,False,True,False,118.0,False,True,False,False,50.0,F,1967-12-11
+110,Clara Mustard,"097 Angela Rapids Suite 716
+West Brittanyshire, NH 92537",True, Some-college,False,32.0,0.53,0.0,0.0,False,False,0.1,0.3,341757.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Machine-op-inspct,False, White,False,True,False,True,False,60.0,False,True,False,False,49.0,F,1969-05-19
+111,Claude Preston,"86068 Stephanie Village
+Curryfort, PA 94076",True, HS-grad,False,92.0,0.88,0.0,0.0,False,False,1.0,1.4,420054.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVI,9.0, Machine-op-inspct,False, White,False,True,False,True,False,105.0,False,True,False,False,79.0,M,1939-08-12
+112,Cleo Pruett,"71534 Joseph Shoal
+Whiteberg, IL 16670",True, 10th,False,101.0,0.8,0.0,0.0,False,False,1.3,1.0,141537.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,SVI,8.411764705882353, Machine-op-inspct,False, Black,False,True,False,True,False,127.0,True,True,False,False,72.0,F,1946-04-08
+117,Curtis Cunningham,"53935 Rebecca Underpass
+North Kimberlyland, CT 17918",True, HS-grad,False,94.0,0.92,0.0,0.0,False,False,12.1,3.4,108887.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, White,False,True,False,True,False,102.0,False,True,False,False,79.0,F,1939-09-10
+138,Dick Alvares,"659 Cynthia Road Suite 874
+New Gregory, OR 21264",True, HS-grad,False,74.0,0.85,0.0,0.0,False,False,0.3,0.8,167832.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, White,False,True,False,True,False,87.0,False,True,False,False,63.0,M,1955-10-12
+143,Doris Rankins,"00342 Barnes Valleys Apt. 718
+New Thomasmouth, IL 16617",True, Some-college,False,86.0,0.91,0.0,7298.0,False,False,3.7,1.79375,279472.0,48.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,8.411764705882353, Machine-op-inspct,False, White,False,True,False,True,False,95.0,False,True,False,False,62.0,F,1956-07-29
+183,Frances Hanson,"7496 Brandon Lodge
+Campbellmouth, LA 88969",True, HS-grad,False,211.0,1.88,0.0,0.0,False,False,0.62,3.8,607799.0,60.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,STMW,9.0, Machine-op-inspct,False, White,True,True,False,True,False,112.0,False,True,False,False,29.0,F,1989-03-13
+206,Harlan Roberson,"126 Micheal Stravenue Suite 078
+Stevenhaven, NH 30940",True, 11th,False,102.0,0.82,0.0,0.0,False,False,0.25,1.8,242406.0,40.0, Unmarried,False, Private,False, Never-married,False, Puerto-Rico,False,False,True,other,7.0, Machine-op-inspct,False, White,False,True,False,True,False,124.0,False,True,False,False,59.0,M,1959-08-29
+225,Jack Mckeon,"4264 Amy Mountains Apt. 150
+Allenside, WA 20613",True, HS-grad,False,109.0,0.9563636363636363,0.0,0.0,False,False,2.1,1.2,43711.0,45.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Machine-op-inspct,False, White,False,True,False,True,False,140.0,False,True,False,False,61.0,M,1957-05-22
+265,Jose Malinowski,"8428 Lee Park
+Amandaborough, SD 97668",True, 11th,False,98.0,0.75,0.0,0.0,True,False,0.35,1.6,252250.0,65.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,7.0, Machine-op-inspct,False, White,False,True,False,True,False,131.0,False,True,False,False,60.0,M,1957-11-09
+274,Juana Joyce,"25594 Brian Shores
+Barbarafort, MO 89671",True, HS-grad,False,73.0,0.93,0.0,0.0,True,False,4.9,1.79375,175586.0,40.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,False,other,9.0, Machine-op-inspct,False, Black,False,True,False,True,False,79.0,False,True,False,False,69.0,F,1948-11-24
+311,Laurie Auduong,"74157 Sullivan Fall
+Chaseshire, MS 47381",True, Some-college,False,118.0,1.52,0.0,0.0,False,False,0.02,2.9,111558.0,40.0, Own-child,False, Local-gov,False, Divorced,False, United-States,False,False,True,other,10.0, Machine-op-inspct,False, White,False,True,False,True,False,78.0,False,True,False,False,27.0,F,1990-12-18
+324,Lisa Tudela,"50045 Luis Tunnel
+Lake Robert, MD 90528",True, HS-grad,False,122.0,1.25,0.0,0.0,True,False,1.1,2.6,204160.0,40.0, Own-child,False, Private,False, Divorced,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, White,False,True,False,True,False,98.0,False,True,False,False,76.0,F,1942-07-28
+339,Mai Schleppenbach,"29280 Michael Pine
+Abigailborough, WA 19558",True, HS-grad,False,89.0,0.89,0.0,0.0,False,False,0.25,1.8,255582.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Machine-op-inspct,False, White,False,True,False,True,False,100.0,False,True,False,False,86.0,F,1932-04-16
+344,Margaret Mcelroy,"36683 Ortega Village
+Dianahaven, MN 13847",True, Preschool,False,147.0,0.95,0.0,0.0,False,False,1.1,1.79375,225065.0,40.0, Wife,False, Private,False, Married-civ-spouse,False, Mexico,False,False,False,STMW,1.0, Machine-op-inspct,False, White,False,True,False,True,False,154.0,False,True,False,True,18.0,F,1999-11-14
+375,Mary Taylor,"0707 Carr Valley
+North Michaelville, WA 89857",True, HS-grad,False,56.0,0.68,0.0,0.0,False,False,2.5,0.4,485496.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Machine-op-inspct,False, Black,False,True,False,True,False,83.0,False,True,False,False,54.0,F,1963-11-19
+381,Meagan Vanhamlin,"127 Deleon Lock Suite 351
+Millerfort, CO 50347",True, 9th,False,111.0,1.06,0.0,0.0,False,False,2.3,2.6,171090.0,48.0, Wife,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,5.0, Machine-op-inspct,False, Black,False,True,False,True,False,105.0,False,True,False,False,72.0,F,1946-08-22
+388,Melvin Wiedman,"56204 Hall Islands
+Dwaynefort, MD 14575",True, HS-grad,False,90.0,0.99,0.0,0.0,False,False,2.3,2.6,141410.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, Black,False,True,False,True,False,91.0,False,True,False,False,75.0,M,1943-01-10
+406,Nancy Manuel,"57196 George Islands
+South Tarahaven, AL 41287",False, 10th,False,101.80555555555556,0.9563636363636363,0.0,0.0,False,False,2.4,1.79375,200677.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,False,other,6.0, Machine-op-inspct,False, White,False,True,False,False,False,106.52941176470588,False,False,False,False,60.0,F,1958-01-06
+419,Patricia Pickett,"76397 Johns Causeway Apt. 732
+Chadside, MD 52483",False, Some-college,False,102.0,0.9563636363636363,0.0,0.0,False,False,11.0,0.4,227669.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,10.0, Machine-op-inspct,False, Black,False,True,False,True,False,106.52941176470588,False,False,False,False,55.0,F,1963-03-13
+423,Paul Picard,"PSC 9268, Box 0191
+APO AP 93893",True, Some_college,False,136.0,1.19,0.0,0.0,False,False,0.65,1.3,115023.0,40.0, Husband,False, Local-gov,False, Married-civ-spouse,False, United-States,False,False,True,other,10.0, Machine-op-inspct,False, White,False,True,True,True,False,115.0,False,True,False,False,37.0,M,1981-06-19
+438,Rebecca Angel,"2574 Lisa Canyon
+South Benjamin, NE 79739",True, HS-grad,False,71.0,0.72,0.0,0.0,False,False,1.4,1.7,102864.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Machine-op-inspct,False, White,False,True,False,True,False,99.0,False,True,False,False,37.0,F,1981-02-07
+450,Robert Lamm,"13305 David Creek Apt. 500
+Lake Ariana, MA 71665",True, HS-grad,False,88.0,0.98,0.0,0.0,False,False,12.0,1.5,232082.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVI,9.0, Machine-op-inspct,False, White,False,True,False,True,False,90.0,False,True,False,False,59.0,M,1959-03-21
+454,Robert Perez,"533 Brown Lodge Apt. 041
+Bautistaport, WV 10858",True, HS-grad,False,79.0,0.87,0.0,0.0,False,False,2.0,2.1,278187.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,9.0, Machine-op-inspct,False, White,False,True,False,True,False,91.0,False,True,False,False,49.0,M,1969-01-18
+470,Rosina Knowles,"0128 Amy Station
+Jenniferfurt, OR 14942",False, 5th-6th,False,133.0,0.9563636363636363,0.0,0.0,False,False,1.5,2.1,143189.0,40.0, Own-child,False, Private,False, Never-married,False, Dominican-Republic,False,False,True,other,3.0, Machine-op-inspct,False, White,False,True,False,True,False,106.52941176470588,False,False,False,False,25.0,F,1993-03-11
+479,Sally Talley,"PSC 0827, Box 5338
+APO AA 65054",True, Some-college,False,90.0,1.07,0.0,0.0,False,False,1.1,1.79375,143342.0,40.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,False,other,10.0, Machine-op-inspct,False, White,False,True,False,True,False,84.0,False,True,False,False,60.0,F,1957-12-26
+487,Scott Smith,"PSC 3473, Box 9378
+APO AA 86697",True, Some-college,False,85.0,1.1,0.0,0.0,False,False,0.78,1.9,138441.0,40.0, Own-child,False, Private,False, Never-married,True, United-States,False,False,True,SVI,10.0, Machine-op-inspct,False, White,False,True,False,True,False,77.0,False,True,False,False,63.0,M,1955-10-13
+519,Susie Moman,"6531 Parker Rapid Apt. 336
+North Kathryn, KY 30047",True, HS-grad,False,88.0,0.95,0.0,0.0,False,False,1.9,2.0,229414.0,30.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, White,False,True,False,True,False,92.0,False,True,False,False,54.0,F,1964-03-31
+535,Tom Casagrande,"739 Michael Vista
+Port Michaelport, NY 70431",True, HS-grad,False,107.0,0.79,0.0,0.0,False,False,0.2,1.5,243660.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Machine-op-inspct,False, White,False,True,False,True,False,135.0,False,True,False,False,44.0,M,1974-02-20
+39,Beatrice Weathers,"00418 Brian Pine Apt. 401
+North Elizabeth, OH 22963",False, Some-college,False,113.6,1.05,0.0,0.0,True,False,20.11,1.575,110586.0,40.0, Unmarried,False, Private,False, Widowed,False, United-States,False,False,False,other,10.0, Priv-house-serv,False, White,False,False,False,False,False,106.5,False,False,False,True,57.0,F,1961-06-11
+223,Irene Burke,"8165 Williamson Crest Apt. 880
+Millerbury, NH 66954",True, HS-grad,False,127.0,1.05,0.0,0.0,True,False,8.5,1.575,119751.0,60.0, Other-relative,False, Private,False, Married-civ-spouse,False, Philippines,False,False,False,other,9.0, Priv-house-serv,False, Asian-Pac-Islander,False,True,False,True,False,121.0,False,True,False,False,70.0,F,1948-10-22
+283,Karmen Green,"USCGC Kelly
+FPO AA 32479",True, Some-college,False,120.0,0.91,0.0,0.0,False,False,0.63,1.8,45613.0,40.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,other,10.0, Priv-house-serv,False, White,False,True,False,True,False,132.0,False,True,False,False,61.0,F,1957-07-08
+309,Latonya Wilhelm,"160 Mitchell Cove
+West Gina, NV 11566",True, 11th,False,181.0,1.11,0.0,0.0,True,False,0.12,2.3,134480.0,25.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,7.0, Priv-house-serv,False, White,False,True,False,True,False,164.0,False,True,False,False,49.0,F,1969-01-20
+340,Mamie Serio,"00282 Meredith Shoal Apt. 563
+North Roberthaven, IN 25949",True, 9th,False,10.0,1.13,0.0,0.0,False,False,89.0,0.2,363053.0,24.0, Unmarried,False, Private,False, Never-married,False, Mexico,False,False,True,SVI,5.0, Priv-house-serv,False, White,False,True,False,True,False,9.0,False,True,False,False,50.0,F,1968-08-15
+549,Virginia Oconnell,"PSC 0419, Box 4497
+APO AA 88664",False, Assoc-voc,False,130.0,1.05,0.0,0.0,False,False,2.3,2.0,108574.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,11.0, Priv-house-serv,False, White,False,True,False,True,False,106.5,False,False,False,False,72.0,F,1946-09-04
+40,Beau Callaghan,"4360 Chandler Fords Suite 739
+East Angelfort, VT 57774",True, HS-grad,False,88.0,0.72,0.0,0.0,False,False,4.3,2.12,258509.0,24.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,SVI,9.0, Transport-moving,False, Black,False,True,False,True,False,122.0,False,True,False,False,65.0,F,1953-09-14
+42,Benjamin Corns,"055 Morrison Green Suite 852
+Port Sheenastad, ND 62568",False, Assoc_voc,False,123.0,0.9263636363636365,0.0,0.0,False,False,0.02,2.12,117059.0,60.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,11.0, Transport-moving,False, Amer-Indian-Eskimo,False,True,False,True,False,104.27272727272727,False,False,False,False,49.0,M,1968-12-14
+52,Betty Stewart,"3823 Allison Corners
+West Timothy, VA 50566",False, HS-grad,False,99.0,0.9263636363636365,0.0,0.0,False,False,2.2803571428571425,2.12,187861.0,44.0, Unmarried,False, Private,False, Separated,False, United-States,False,False,False,other,9.0, Transport-moving,False, White,False,False,False,False,False,104.27272727272727,False,False,False,False,40.0,F,1978-08-22
+170,Emilio Juares,"2025 Rogers Neck
+Christinechester, NE 69713",True, Some-college,False,101.0,0.86,0.0,0.0,False,False,0.5,2.12,326232.0,40.0, Unmarried,False, Private,False, Divorced,False, United-States,False,True,False,other,10.0, Transport-moving,False, White,False,True,False,True,False,117.0,False,True,False,False,36.0,M,1982-03-22
+194,Gerald Marlin,"43427 Tiffany Ports
+Stephanieview, WY 49101",True, HS-grad,False,105.0,0.91,0.0,0.0,False,False,0.3,1.2,183710.0,48.0, Not-in-family,False, State-gov,False, Divorced,False, United-States,False,False,True,SVHC,9.0, Transport-moving,False, White,False,True,False,True,False,115.0,False,True,False,False,53.0,M,1964-12-13
+198,Glen Armstrong,"Unit 0839 Box 3370
+DPO AA 50618",True, Assoc-acdm,False,54.0,1.07,0.0,0.0,False,False,0.25,1.3,285432.0,40.0, Not-in-family,False, Federal-gov,False, Never-married,False, United-States,True,True,True,SVI,12.0, Transport-moving,False, Black,False,True,False,True,False,51.0,False,True,False,False,21.0,M,1996-10-19
+226,Jacob Fitzsimmons,"38486 Kimberly Lights
+New Loretta, IN 55299",True, HS-grad,False,86.0,0.75,0.0,0.0,False,False,0.37,2.2,323055.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Transport-moving,False, White,False,True,True,True,False,115.0,False,True,False,False,38.0,M,1980-02-01
+252,Jesse Moore,"7048 Simpson Isle Suite 063
+East Cynthiaton, CO 70226",True, 11th,False,134.0,1.0,0.0,0.0,False,False,0.25,3.1,159561.0,20.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,7.0, Transport-moving,False, White,False,True,False,True,False,134.0,False,True,False,False,41.0,M,1976-11-05
+314,Lee Rose,"24459 Rose Isle Apt. 153
+Colleenside, IA 87520",False, 11th,False,116.0,0.9263636363636365,0.0,0.0,False,False,0.035,3.3,184655.0,50.0, Not-in-family,False, Private,False, Divorced,False, United-States,False,False,True,other,7.0, Transport-moving,False, White,False,True,False,True,False,104.27272727272727,False,False,False,False,25.0,M,1992-12-10
+356,Mark Lind,"45599 Middleton Throughway
+Thomasfort, AK 25696",True, HS-grad,False,111.0,0.95,0.0,0.0,False,False,1.6,2.1,278403.0,65.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Transport-moving,False, White,False,True,False,True,False,117.0,False,True,False,False,51.0,M,1967-01-05
+407,Nancy Pearse,"10046 Harrison Fields
+South Patricia, FL 53987",True, HS-grad,False,114.0,0.99,0.0,0.0,False,False,1.2,1.5,318921.0,35.0, Not-in-family,False, Local-gov,False, Divorced,False, United-States,False,False,True,SVI,9.0, Transport-moving,False, White,False,True,False,True,False,115.0,False,True,False,False,81.0,F,1937-07-10
+447,Richard Early,"44096 Debra Square Suite 291
+Port Dennisville, NJ 74638",False, Some-college,False,99.0,0.9263636363636365,0.0,0.0,True,False,5.2,2.12,180551.0,50.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,10.0, Transport-moving,False, White,False,True,True,False,True,104.27272727272727,False,False,False,True,74.0,M,1944-02-19
+448,Richard Lasley,"58970 Patrick Plains Apt. 154
+Kimberlyville, MN 57194",True, Some-college,False,90.0,1.02,0.0,0.0,False,False,0.7,2.9,121313.0,50.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Transport-moving,False, White,False,True,False,True,False,88.0,False,True,False,False,32.0,M,1986-06-06
+449,Rickey Tellez,"016 Gutierrez Lake Suite 155
+West Kevin, TN 08391",True, 5th-6th,False,81.0,1.01,0.0,0.0,False,False,15.0,2.0,237735.0,37.0, Husband,False, Private,False, Married-civ-spouse,False, Mexico,False,False,True,other,3.0, Transport-moving,False, White,False,True,False,True,False,81.0,False,True,False,False,68.0,M,1950-10-11
+452,Robert Maldonado,"0175 Campbell Well
+Port Steven, SC 24354",True, HS-grad,False,84.0,0.91,0.0,0.0,False,False,2.2,1.6,75167.0,55.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Transport-moving,False, White,False,True,False,True,False,92.0,False,True,False,False,55.0,M,1963-05-12
+55,Beverly Fowlkes,"985 Justin Ridges
+North Austinfurt, SC 15219",True, Some-college,False,121.0,1.38,0.0,0.0,False,False,3.0,2.5,84848.0,40.0, Unmarried,False, Federal-gov,False, Never-married,False, United-States,False,False,True,other,10.0, Handlers-cleaners,False, White,True,True,True,True,False,88.0,False,True,False,False,33.0,F,1985-06-12
+77,Carlos Schwartz,"6805 Jones Way Apt. 699
+Port Michelle, HI 50250",True, 11th,False,93.0,0.84,0.0,0.0,False,False,5.6,1.9875,183041.0,24.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,7.0, Handlers-cleaners,False, White,False,True,False,True,False,110.0,False,True,False,False,41.0,M,1977-04-09
+193,Gerald Johnston,"1996 Cynthia Crescent Suite 517
+East Karenmouth, WA 57648",True, HS_grad,False,158.0,1.18,0.0,0.0,False,False,0.52,2.4,30656.0,20.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Handlers-cleaners,False, White,False,True,False,True,False,134.0,False,True,False,False,56.0,M,1962-01-17
+200,Gloria Semmes,"74662 Randy Valley
+Stewarttown, KS 06842",True, HS-grad,False,107.0,0.74,0.0,0.0,True,False,0.005,1.9,442131.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,8.76923076923077, Handlers-cleaners,False, White,False,True,False,True,False,144.0,False,True,False,False,55.0,F,1963-01-07
+207,Harold Keith,"8977 Elizabeth Street
+Ortizton, VA 67923",False, HS-grad,False,123.0909090909091,1.0472727272727271,0.0,0.0,False,False,3.0115000000000003,1.9875,451996.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,False,other,9.0, Handlers-cleaners,False, White,False,False,False,False,False,118.9090909090909,False,False,False,False,63.0,F,1955-09-15
+240,Jannette Stone,"198 Burns Divide Apt. 670
+Molinafort, FL 07540",True, Bachelors,False,110.0,0.82,0.0,0.0,False,False,0.2,0.9,212114.0,15.0, Own-child,False, Private,False, Never-married,False, United-States,False,True,True,SVI,13.0, Handlers-cleaners,False, White,False,True,False,True,False,134.0,True,True,False,False,63.0,F,1955-06-23
+257,John Ellis,"29290 Johnson Mountains Suite 749
+West Peter, AK 39913",True, HS-grad,False,102.0,0.86,0.0,0.0,False,False,2.2,2.0,106951.0,42.0, Not-in-family,False, Private,False, Never-married,False, United-States,False,False,True,SVHC,9.0, Handlers-cleaners,False, White,False,True,True,True,False,119.0,False,True,False,False,32.0,M,1986-01-06
+308,Larry Menken,"8472 Roberts Spur
+South Christopher, AK 44757",True, 7th-8th,False,118.0,0.95,0.0,0.0,False,False,3.0115000000000003,1.9875,369825.0,25.0, Other-relative,False, Private,False, Never-married,False, United-States,False,False,False,other,4.0, Handlers-cleaners,False, White,False,False,False,True,False,124.0,False,True,False,False,44.0,M,1974-02-09
+330,Louise Grudem,"44856 Hoffman Prairie
+Port Jamiemouth, NV 50415",False, Some-college,False,123.0909090909091,1.0472727272727271,0.0,0.0,False,False,3.0115000000000003,1.9875,178207.0,35.0, Unmarried,False, Private,False, Never-married,False, United-States,False,False,False,other,10.0, Handlers-cleaners,False, Amer-Indian-Eskimo,False,False,True,False,False,118.9090909090909,False,False,False,False,57.0,F,1960-12-02
+361,Martin Powell,"818 Erika Courts
+New Annamouth, AZ 30894",False, 11th,False,123.0909090909091,1.0472727272727271,0.0,0.0,False,False,3.0115000000000003,1.9875,356015.0,40.0, Not-in-family,False, Private,False, Married-spouse-absent,False, Mexico,False,False,False,other,7.0, Handlers-cleaners,False, Amer-Indian-Eskimo,False,False,False,False,False,118.9090909090909,False,False,False,False,47.0,M,1971-09-20
+366,Mary Frazier,"87368 Hall Tunnel
+Ingramstad, VT 79832",True, Assoc-voc,False,146.0,1.34,0.0,0.0,False,False,1.8,2.3,129460.0,30.0, Wife,False, Private,False, Married-civ-spouse,False, Ecuador,False,False,True,SVI,11.0, Handlers-cleaners,False, White,False,True,False,True,False,108.0,False,True,False,False,63.0,F,1955-04-14
+553,William Baker,"056 Brian Circles Suite 334
+Port Anne, NE 64408",True, Some-college,False,156.0,1.39,0.0,0.0,False,False,0.57,1.3,180449.0,28.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,True,SVHC,10.0, Handlers-cleaners,False, White,False,True,False,True,False,112.0,False,True,False,False,38.0,M,1980-04-04
+556,William Pierce,"4201 Tracy Plains
+South Todd, ND 25360",True, HS-grad,False,87.0,0.91,0.0,0.0,False,False,16.0,1.9875,69107.0,40.0, Husband,False, Private,False, Married-civ-spouse,False, United-States,False,False,False,other,9.0, Handlers-cleaners,False, Black,False,True,False,True,False,95.0,False,True,False,False,44.0,M,1974-10-05
+122,Dale Sabol,"035 Kyle Drive Suite 720
+Reneeville, SC 82000",True, HS-grad,False,109.0,0.91,0.0,0.0,False,False,0.98,1.9000000000000001,107096.0,50.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,False,other,9.0, Farming-fishing,False, White,False,True,False,True,False,120.0,False,True,False,False,46.0,M,1972-03-01
+128,David Killingsworth,"14016 Mathew Path
+New Darlene, GA 15046",True, Some_college,False,105.0,0.83,0.0,0.0,False,False,2.3,1.6,235894.0,40.0, Own-child,False, Local-gov,False, Never-married,False, United-States,False,False,True,SVI,10.0, Farming-fishing,False, White,False,True,False,True,False,127.0,False,True,False,False,83.0,M,1935-10-07
+142,Donna Sires,"13346 Barton Plaza Apt. 064
+South Tonimouth, OH 32325",True, Some-college,False,84.0,0.96,0.0,0.0,False,False,1.1,1.6,60828.0,50.0, Own-child,False, Self-emp-not-inc,False, Never-married,False, United-States,False,False,True,SVI,10.0, Farming-fishing,False, White,False,True,False,True,False,87.0,False,True,False,False,45.0,F,1973-01-07
+152,Dwayne Sebek,"67727 Adam Inlet
+Williamsland, DC 68151",True, HS-grad,False,109.0,0.97,1977.0,0.0,False,False,1.5,1.8,36270.0,65.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,other,9.0, Farming-fishing,False, White,False,True,False,True,False,112.0,False,True,False,False,37.0,M,1981-08-12
+229,James Hart,"577 Greer Shore Apt. 099
+Brookeside, MD 88687",True, 9th,False,103.0,0.92,0.0,0.0,False,False,1.8,2.1,67903.0,40.0, Not-in-family,False, Private,False, Separated,False, United-States,False,False,True,SVHC,5.0, Farming-fishing,False, Black,False,True,False,True,False,112.0,False,True,True,False,73.0,M,1945-08-27
+255,Joe Kies,"676 Louis Mountains Apt. 193
+Hansenport, LA 41042",True, 9th,False,72.0,1.08,0.0,0.0,False,False,9.2,2.2,221166.0,40.0, Own-child,False, Private,False, Never-married,False, United-States,False,False,True,other,8.857142857142858, Farming-fishing,False, White,False,True,False,True,False,66.0,False,True,False,False,52.0,M,1965-10-26
+258,John Sullivan,"17366 Jones Estate
+New Tyroneville, IL 04778",True, HS-grad,False,94.0,0.88,0.0,0.0,False,False,0.4,2.8,190333.0,25.0, Not-in-family,False, Self-emp-not-inc,False, Divorced,False, United-States,False,False,True,SVHC,9.0, Farming-fishing,False, White,False,True,False,True,False,106.0,False,True,False,False,50.0,M,1968-04-08
+264,Jonathan Pineda,"464 Katrina Ferry
+North Kyleview, OK 13684",True, Some-college,False,93.0,0.79,0.0,0.0,False,False,0.5,1.2,83242.0,60.0, Husband,False, Self-emp-not-inc,False, Married-civ-spouse,False, United-States,False,False,True,SVI,10.0, Farming-fishing,False, White,False,True,False,True,False,117.0,False,True,False,False,85.0,M,1933-03-02
+134,Denise Griffin,"9537 Andrew Lodge
+Kevinhaven, ID 94753",True, Some-college,False,101.0,1.03,0.0,0.0,False,False,0.88,2.2,29235.0,40.0, Wife,False, Local-gov,False, Married-civ-spouse,False, France,False,False,True,SVI,10.0, Protective-serv,False, White,False,True,False,True,False,97.0,False,True,False,False,63.0,F,1955-07-12
+471,Roy Blevins,"Unit 3557 Box 7625
+DPO AP 85238",True, Assoc-acdm,False,132.0,1.21,0.0,0.0,False,False,1.5,3.3,154935.0,40.0, Not-in-family,False, Local-gov,False, Never-married,False, United-States,False,False,True,SVHC,12.0, Protective-serv,False, Black,False,True,False,True,False,110.0,False,True,False,False,36.0,M,1982-04-18
+511,Stephen Faulkner,"58759 Hall Ports Suite 297
+Cookland, AR 99242",True, Some-college,False,110.0,0.87,0.0,0.0,False,False,3.0,2.7,163942.0,40.0, Own-child,False, Local-gov,False, Never-married,False, United-States,False,False,True,SVHC,10.0, Protective-serv,False, White,False,True,False,True,False,126.0,False,True,True,False,25.0,M,1993-03-15
+554,William Chandler,"9739 Sarah Ridge Suite 799
+Lewismouth, WI 02754",True, Some-college,False,93.0,0.97,0.0,0.0,False,False,5.1,2.733333333333333,340269.0,40.0, Not-in-family,False, State-gov,False, Never-married,False, United-States,False,False,False,other,10.0, Protective-serv,False, White,False,True,False,True,False,95.0,False,True,False,False,31.0,M,1987-01-27
